@@ -83,7 +83,7 @@ plugins:
 
 menu: 
   - title: About
-  - url: /About/
+    url: /About/
   - title: Publications
-  - url: /Publications/
+    url: /Publications/
 
