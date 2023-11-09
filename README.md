@@ -6,56 +6,50 @@ I have a broad interest in computer vision and deep reinforcement learning. This
 
 I deeply believe in human ingenuity and the potential of Artificial Intelligence. 10 years from now, I want to be a computer vision scientist, immersing myself in a pioneering industry capable of pushing the limit of autonomous driving.
 
-
-Here is my [CV]
+Please see my [CV] for a full list of work, teaching, and other experiences.
 
 ## Publications
 
-Yang, F., Wen, Y. Efficient Encoding of Graphics Primitives with Simplex-based Structures. Midwest Machine Learning Symposium, 2023.
+Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based Structures.** Midwest Machine Learning Symposium, 2023.
 
 ## Research
 
-
+- image
 
 ## Teaching
 
-Undergraduate TA for CS396: [Intro to Web Development](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-6.html) taught by Sarah Van Wart, Spring 2022
+***Undergraduate TA*** for CS396: [Intro to Web Development](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-6.html) taught by Sarah Van Wart, Spring 2022
 
-Graduate TA for CS310: [Scalable Software Architectures](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/310.html) taught by Joe Hummel, Fall 2023
+***Graduate TA*** for CS310: [Scalable Software Architectures](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/310.html) taught by Joe Hummel, Fall 2023
 
-Project Manager for Institute of Electrical and Electronics Engineers, 2022
+***Project Manager*** for Institute of Electrical and Electronics Engineers, 2022
 
 ## Work Experiences
 
-**Software Engineer Intern @ [Target](https://www.target.com)**
+### Software Engineer Intern @ [Target](https://www.target.com)
 _(June 2023 - Aug 2023)_
 
-Developed a Golang application within a Vela CI/CD pipeline to enforce security and compliance standards for internal applications deployment
+Developed a Golang application within a Vela CI/CD pipeline to enforce security and compliance standards
+Integrated Postgres with RestAPI for build lifecycle and versioning information retrieval and storage
+Performed unit and integration testing with sqlmock and httptest, achieved service level objectives (SLOs)
 
-Integrated Postgres and Target API-based database with RestAPI for build lifecycle, ownership, and versioning information retrieval and storage
 
-Incorporated 90% coverage on unit and integration testing with sqlmock and httptest, achieved Target-standard service level objectives (SLOs)
 
-**Lead Tech Engineer @ [Skuy](https://www.skuy.app/)**
+### Lead Tech Engineer @ [Skuy](https://www.skuy.app/)
 _(Apr 2022 - Present)_
 
-Built a cross-platform community network mobile app tailored for college students, amassed 500+ users on both the App Store and Google Play
-
-Led a 2-months database migration from Heroku to Firebase for service growth and stability; set up RestAPI checkpoints for data verification
-
+Built a college community network app startup, amassed 500+ users on both the App Store and Google Play
+Led a 2-months database migration from Heroku to Firebase for service growth and stability
 Managed pull requests for 8 tech engineers to ensure encrypted retrieval and storage for private user info
+Configured CI/CD pipeline on Expo for IOS Pod and Android Gradle builds
 
-Configured CI/CD pipeline on Expo for IOS Pod and Android Gradle deployment and employed agile management in 2-week sprints throughout development
 
-
-**Software Development Engineering Intern @ [Amazon](https://www.amazon.com/)**
+### Software Development Engineering Intern @ [Amazon](https://www.amazon.com/)
 _(Jun 2022 - Sep 2022)_
 
-Implemented and tested a Sagemaker webpage that provides benchmarked health and architecture evaluations for machine learning models
-
-Challenged and simplified frontend implementation of S3 resource selector with React and Redux; unit tested with ESLint and Cypress
-
-Presented an end-to-end demo to 150+ Sagemaker engineers; received candidacy to beta-launch Sagemaker model cards on AWS Re:Invent
+Implemented a Sagemaker webpage that provides benchmarked health and architecture evaluations for ML models
+Simplified frontend of S3 resource selector with React and Redux; unit tested with ESLint and Cypress
+Presented a demo to Sagemaker engineers; received candidacy to beta-launch model cards on AWS Re:Invent
 
 ## Skills
 
@@ -65,6 +59,8 @@ Web/Mobile Development: React, React Native, Flask, Redux, Node, ESLint, Cypress
 DevOps: RestAPI, AWS, Firebase, Heroku, Elastic Beanstalk, Git, Vela, Docker, MySQL, PostgresSQL
 
 ## Photography
+
+Coming soon...
 
 [CV]: https://drive.google.com/file/d/1N12Cp6jPBLxFuq8aSnU8ce0lNnC8ykTj/view?usp=sharing
 [blog]: https://hydejack.com/blog/
