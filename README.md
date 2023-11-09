@@ -1,18 +1,22 @@
-# Welcome to my personal website
+# About
 
-I am a BS/MS student studying Computer Science and Mathematics at Northwestern University. 
+I am currently pursuing a Bachelor's and Master's degree in Computer Science and Mathematics at Northwestern University. In the past, I had the privilege of collaborating with Professor Florian Willomitzer and Oliver Cossairt at the Computational Photography Lab, focusing on high-precision 3D image reconstruction. Presently, my efforts are directed towards research with Professor Qi Zhu at the Design Automation of Intelligent Systems Lab, where I am exploring reinforcement learning approaches for safety-critical control systems.
+
+I have a broad interest in computer vision and deep reinforcement learning. This curiosity fuels my research vision — a commitment to contributing to the evolution of self-driving technologies. Whether applied to robotics or commodity vehicles, I envision a future where vehicles navigate roads with an optimal balance of efficiency and safety.
+
+I deeply believe in human ingenuity and the potential of Artificial Intelligence. 10 years from now, I want to be a computer vision scientist, immersing myself in a pioneering industry capable of pushing the limit of autonomous driving.
+
+[cv]
 
 # Publications
 
+## Research
 
+## Teaching
 
-# Research
+## Work Experiences
 
-# Teaching
-
-# Work Experiences
-
-# Photography
+## Photography
 
 
 **Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
@@ -184,6 +188,7 @@ The table below shows what's included in each version:
 *[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
 
 
+[cv]: https://drive.google.com/file/d/1N12Cp6jPBLxFuq8aSnU8ce0lNnC8ykTj/view?usp=sharing
 [blog]: https://hydejack.com/blog/
 [portfolio]: https://hydejack.com/projects/
 [resume]: https://hydejack.com/resume/
