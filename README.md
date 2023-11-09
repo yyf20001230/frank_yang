@@ -14,7 +14,9 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 ## Research
 
-![Hello]("/assets/img/Frank-min.JPG"){:.lead width="100" height="100" loading="lazy"}
+![Hello](/assets/img/Frank-min.JPG){:.lead width="100" height="100" loading="lazy"}
+
+This is a piece of **shit**
 
 ## Teaching
 
