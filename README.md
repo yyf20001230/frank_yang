@@ -1,17 +1,6 @@
+# Frank Yang
 
-
-# Hydejack
-
-A boutique Jekyll theme for hackers, nerds, and academics.  
-
-
-
-
-
-[![Screenshot](https://hydejack.com/assets/img/blog/hydejack-9.jpg)][welcome]
-
-Hydejack's cover page on a variety of screens.
-
+Welcome to my personal website!  
 
 
 **Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
