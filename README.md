@@ -14,12 +14,15 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 ## Research
 
-![Hello](/assets/img/Frank-min.JPG){:.lead width="10" height="10" loading="lazy"}
+![Hello](/assets/img/Frank-min.JPG){:.lead width="20%" height="20%" loading="lazy"}
 This is a piece of **shit**
 
-<img src="/assets/img/Frank-min.JPG" align="left" width="10%"/>
-some text floating around the image, which is also a piece of shit
+<img src="frank_yang/assets/img/Frank-min.JPG" align="left" width="20%"/>
+
+some text floating around the image, which is also a piece of **shit**. <<What is this??>>
+
 <br clear="left"/>
+
 A "newline". This text doesn't float anymore, is left-aligned.
 
 ## Teaching
