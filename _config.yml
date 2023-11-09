@@ -83,15 +83,20 @@ plugins:
 
 menu: 
   - title: About
-    url: /About/
+    url: /#about
   - title: Publications
-    url: /Publications/
+    url: /#publications
   - title: Research
-    url: /Research/
+    url: /#research
   - title: Teaching
-    url: /Teaching/
+    url: /#teaching/
   - title: Work Experience
-    url: /Work Experience/
+    url: /#work Experience
   - title: Photography
-    url: /Photography/
+    url: /#photography
+
+author:
+  name: Frank Yang
+  email: frankyang2024@u.northwestern.edu
+  github: https://github.com/yyf20001230
 
