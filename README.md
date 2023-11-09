@@ -6,11 +6,12 @@ I have a broad interest in computer vision and deep reinforcement learning. This
 
 I deeply believe in human ingenuity and the potential of Artificial Intelligence. 10 years from now, I want to be a computer vision scientist, immersing myself in a pioneering industry capable of pushing the limit of autonomous driving.
 
-[cv]
 
-# Publications
+Here is my [CV]
 
+## Publications
 
+Yang, F., Wen, Y. Efficient Encoding of Graphics Primitives with Simplex-based Structures. Midwest Machine Learning Symposium, 2023.
 
 ## Research
 
@@ -20,9 +21,34 @@ I deeply believe in human ingenuity and the potential of Artificial Intelligence
 
 ## Work Experiences
 
-**Software Delopment Engineering Intern** @ [Amazon](https://www.amazon.com/) _(Jun 2022 - Sep 2022)_
+**Software Engineer Intern @ [Target](https://www.target.com)**
+_(June 2023 - Aug 2023)_
+
+Developed a Golang application within a Vela CI/CD pipeline to enforce security and compliance standards for internal applications deployment
+
+Integrated Postgres and Target API-based database with RestAPI for build lifecycle, ownership, and versioning information retrieval and storage
+
+Incorporated 90% coverage on unit and integration testing with sqlmock and httptest, achieved Target-standard service level objectives (SLOs)
+
+**Lead Tech Engineer @ [Skuy](https://www.skuy.app/)**
+_(Apr 2022 - Present)_
+
+Built a cross-platform community network mobile app tailored for college students, amassed 500+ users on both the App Store and Google Play
+
+Led a 2-months database migration from Heroku to Firebase for service growth and stability; set up RestAPI checkpoints for data verification
+
+Managed pull requests for 8 tech engineers to ensure encrypted retrieval and storage for private user info
+
+Configured CI/CD pipeline on Expo for IOS Pod and Android Gradle deployment and employed agile management in 2-week sprints throughout development
+
+
+**Software Development Engineering Intern @ [Amazon](https://www.amazon.com/)**
+_(Jun 2022 - Sep 2022)_
+
 Implemented and tested a Sagemaker webpage that provides benchmarked health and architecture evaluations for machine learning models
+
 Challenged and simplified frontend implementation of S3 resource selector with React and Redux; unit tested with ESLint and Cypress
+
 Presented an end-to-end demo to 150+ Sagemaker engineers; received candidacy to beta-launch Sagemaker model cards on AWS Re:Invent
 
 ## Skills
@@ -204,7 +230,7 @@ The table below shows what's included in each version:
 *[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
 
 
-[cv]: https://drive.google.com/file/d/1N12Cp6jPBLxFuq8aSnU8ce0lNnC8ykTj/view?usp=sharing
+[CV]: https://drive.google.com/file/d/1N12Cp6jPBLxFuq8aSnU8ce0lNnC8ykTj/view?usp=sharing
 [blog]: https://hydejack.com/blog/
 [portfolio]: https://hydejack.com/projects/
 [resume]: https://hydejack.com/resume/
