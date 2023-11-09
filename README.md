@@ -1,8 +1,6 @@
-# Frank Yang
-
-Welcome to my personal website!  
-
 # About
+
+
 
 # Publications
 
