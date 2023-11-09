@@ -10,11 +10,27 @@ I deeply believe in human ingenuity and the potential of Artificial Intelligence
 
 # Publications
 
+
+
 ## Research
 
 ## Teaching
 
+
+
 ## Work Experiences
+
+**Software Delopment Engineering Intern** @ [Amazon](https://www.amazon.com/) _(Jun 2022 - Sep 2022)_
+Implemented and tested a Sagemaker webpage that provides benchmarked health and architecture evaluations for machine learning models
+Challenged and simplified frontend implementation of S3 resource selector with React and Redux; unit tested with ESLint and Cypress
+Presented an end-to-end demo to 150+ Sagemaker engineers; received candidacy to beta-launch Sagemaker model cards on AWS Re:Invent
+
+## Skills
+
+Languages: Python, Go, TypeScript, SwiftUI, HTML/CSS/JavaScript, C++
+Deep Learning: Torch, CUDA, TensorFlow, OpenCV
+Web/Mobile Development: React, React Native, Flask, Redux, Node, ESLint, Cypress
+DevOps: RestAPI, AWS, Firebase, Heroku, Elastic Beanstalk, Git, Vela, Docker, MySQL, PostgresSQL
 
 ## Photography
 
