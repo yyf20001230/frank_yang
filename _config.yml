@@ -80,3 +80,10 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+menu: 
+  - title: About
+  - url: /About/
+  - title: Publications
+  - url: /Publications/
+
