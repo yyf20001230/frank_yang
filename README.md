@@ -1,4 +1,4 @@
-# About
+# Welcome to my personal website
 
 I am a BS/MS student studying Computer Science and Mathematics at Northwestern University. 
 
