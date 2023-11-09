@@ -1,8 +1,10 @@
 # About
 
-
+I am a BS/MS student studying Computer Science and Mathematics at Northwestern University. 
 
 # Publications
+
+
 
 # Research
 
