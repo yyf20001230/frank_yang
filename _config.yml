@@ -2,7 +2,7 @@ lang:                  en
 title:                 Frank (Yunfan) Yang
 copyright:             © 2023. All rights reserved.
 
-accent_image:          /assets/img/chongqing.JPG
+accent_image:          /assets/img/chongqing.jpg
 accent_color:          rgb(79,177,186)
 theme_color:           rgb(25,55,71)
 
@@ -100,5 +100,6 @@ author:
   email: frankyang2024@u.northwestern.edu
   github: https://github.com/yyf20001230
   linkedin: https://linkedin.com/in/frankyang2000
-  link: https://vimeo.com/user152850329
+  link: https://drive.google.com/file/d/1N12Cp6jPBLxFuq8aSnU8ce0lNnC8ykTj/view?usp=sharing
+  picture: /assets/img/logo.png
 
