@@ -10,9 +10,34 @@
       {% include components/social-list-item.html platform="twitter" username=twitter_username %}
     {% endif %}
 
+    {% assign facebook_username = author.facebook.username | default: author.facebook | default:site.facebook.username | default:site.facebook | default:site.facebook_username %}
+    {% if facebook_username %}
+      {% include components/social-list-item.html platform="facebook" username=facebook_username %}
+    {% endif %}
+
+    {% assign instagram_username = author.instagram.username | default: author.instagram | default:site.instagram.username | default:site.instagram | default:site.instagram_username %}
+    {% if instagram_username %}
+      {% include components/social-list-item.html platform="instagram" username=instagram_username %}
+    {% endif %}
+
+    {% assign linkedin_username = author.linkedin.username | default: author.linkedin | default:site.linkedin.username | default:site.linkedin | default:site.linkedin_username %}
+    {% if linkedin_username %}
+      {% include components/social-list-item.html platform="linkedin" username=linkedin_username %}
+    {% endif %}
+
+    {% assign youtube_username = author.youtube.username | default: author.youtube | default:site.youtube.username | default:site.youtube | default:site.youtube_username %}
+    {% if youtube_username %}
+      {% include components/social-list-item.html platform="youtube" username=youtube_username %}
+    {% endif %}
+
     {% assign github_username = author.github.username | default: author.github | default:site.github.username | default:site.github | default:site.github_username %}
     {% if github_username %}
       {% include components/social-list-item.html platform="github" username=github_username %}
+    {% endif %}
+
+    {% assign link = author.link | default: site.link %}
+    {% if link %}
+      {% include components/social-list-item.html platform="link" username=link %}
     {% endif %}
 
     {% assign email = author.email | default: site.email %}

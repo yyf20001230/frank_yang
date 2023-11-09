@@ -22,6 +22,22 @@
       {% assign name = "GitHub" %}
       {% assign icon = "icon-github" %}
       {% assign prep = "https://github.com/" %}
+    {% elsif platform == "facebook" %}
+      {% assign name = "Facebook" %}
+      {% assign icon = "icon-facebook" %}
+      {% assign prep = "https://facebook.com/" %}
+    {% elsif platform == "instagram" %}
+      {% assign name = "Instagram" %}
+      {% assign icon = "icon-instagram" %}
+      {% assign prep = "https://instagram.com/" %}
+    {% elsif platform == "linkedin" %}
+      {% assign name = "LinkedIn" %}
+      {% assign icon = "icon-linkedin" %}
+      {% assign prep = "https://linkedin.com/in/" %}
+    {% elsif platform == "link" %}
+      {% assign name = "Link" %}
+      {% assign icon = "icon-link" %}
+      {% assign prep = "https://google.com" %}
     {% endif %}
   {% endunless %}
 
