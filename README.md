@@ -6,7 +6,7 @@ I have a broad interest in computer vision and deep reinforcement learning. This
 
 I deeply believe in human ingenuity and the potential of Artificial Intelligence. 10 years from now, I want to be a computer vision scientist, immersing myself in a pioneering industry capable of pushing the limit of autonomous driving.
 
-Please see my [CV] for a full list of work, teaching, and other experiences.
+Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf">CV</a> for a full list of work, teaching, and other experiences.
 
 ## Publications
 
@@ -14,9 +14,9 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 ## Research
 
-<img src="/frank_yang/assets/img/3DIM.jpg" align="left" width="30%" padding-right="20px"/>
+<img src="/frank_yang/assets/img/3DIM.jpg" width="40%" padding-right="20px"/>
 
-*** High-quality 3D imaging with Commodity Devices ***
+<h3 margin="0rem">High-quality 3D imaging with Commodity Devices</h3>
 
 Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cossairt-oliver.html)
 
@@ -24,8 +24,7 @@ Created GhostScan, a python 3D imaging framework that facilitates non-technical 
 Packaged a [3-step calibration sequence](https://pypi.org/project/GhostScan/) (intrinsic, radiometric, and geometric) to PyPI, allowing µm-level precision prior to starting Phase Measuring Deflectometry
 Benchmarked performance with FLIR camera on specular objects
 
-[Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104)
-<a href="/frank_yang/assets/pdf/frank_cv.pdf" align="left" width="30%" padding-right="20px">Paper</a>
+[Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/frank_cv.pdf">Paper</a>
 
 
 
@@ -63,34 +62,34 @@ Some code block too
 ### Software Engineer Intern @ [Target](https://www.target.com)
 _(June 2023 - Aug 2023)_
 
-Developed a Golang application within a Vela CI/CD pipeline to enforce security and compliance standards
-Integrated Postgres with RestAPI for build lifecycle and versioning information retrieval and storage
-Performed unit and integration testing with sqlmock and httptest, achieved service level objectives (SLOs)
+<br>Developed a Golang application within a Vela CI/CD pipeline to enforce security and compliance standards
+<br>Integrated Postgres with RestAPI for build lifecycle and versioning information retrieval and storage
+<br>Performed unit and integration testing with sqlmock and httptest, achieved service level objectives (SLOs)
 
 
 
 ### Lead Tech Engineer @ [Skuy](https://www.skuy.app/)
 _(Apr 2022 - Present)_
 
-Built a college community network app startup, amassed 500+ users on both the App Store and Google Play
-Led a 2-months database migration from Heroku to Firebase for service growth and stability
-Managed pull requests for 8 tech engineers to ensure encrypted retrieval and storage for private user info
-Configured CI/CD pipeline on Expo for IOS Pod and Android Gradle builds
+<br>Built a college community network app startup, amassed 500+ users on both the App Store and Google Play
+<br>Led a 2-months database migration from Heroku to Firebase for service growth and stability
+<br>Managed pull requests for 8 tech engineers to ensure encrypted retrieval and storage for private user info
+<br>Configured CI/CD pipeline on Expo for IOS Pod and Android Gradle builds
 
 
 ### Software Development Engineering Intern @ [Amazon](https://www.amazon.com/)
 _(Jun 2022 - Sep 2022)_
 
-Implemented a Sagemaker webpage that provides benchmarked health and architecture evaluations for ML models
-Simplified frontend of S3 resource selector with React and Redux; unit tested with ESLint and Cypress
-Presented a demo to Sagemaker engineers; received candidacy to beta-launch model cards on AWS Re:Invent
+<br>Implemented a Sagemaker webpage that provides benchmarked health and architecture evaluations for ML models
+<br>Simplified frontend of S3 resource selector with React and Redux; unit tested with ESLint and Cypress
+<br>Presented a demo to Sagemaker engineers; received candidacy to beta-launch model cards on AWS Re:Invent
 
 ## Skills
 
-***Languages***: Python, Go, TypeScript, SwiftUI, HTML/CSS/JavaScript, C++
-***Deep Learning***: Torch, CUDA, TensorFlow, OpenCV
-***Web/Mobile Development***: React, React Native, Flask, Redux, Node, ESLint, Cypress
-***DevOps***: RestAPI, AWS, Firebase, Heroku, Elastic Beanstalk, Git, Vela, Docker, MySQL, PostgresSQL
+<br>***Languages***: Python, Go, TypeScript, SwiftUI, HTML/CSS/JavaScript, C++
+<br>***Deep Learning***: Torch, CUDA, TensorFlow, OpenCV
+<br>***Web/Mobile Development***: React, React Native, Flask, Redux, Node, ESLint, Cypress
+<br>***DevOps***: RestAPI, AWS, Firebase, Heroku, Elastic Beanstalk, Git, Vela, Docker, MySQL, PostgresSQL
 
 ## Photography
 
