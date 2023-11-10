@@ -14,16 +14,15 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 ## Research
 
-<img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin-right: 2rem"/>
+<img src="/frank_yang/assets/img/">
+
+<img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin-right: 2rem, margin-bottom: 10rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">High-quality 3D imaging with Commodity Devices</h3>
 
 Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)
 
-Created GhostScan, a python 3D imaging framework that facilitates non-technical users to discover micro-painting degradation in Kokomo glass test tiles
-
-Packaged a [3-step calibration sequence](https://pypi.org/project/GhostScan/) (intrinsic, radiometric, and geometric) to PyPI, allowing µm-level precision prior to starting Phase Measuring Deflectometry
-Benchmarked performance with FLIR camera on specular objects
+Created a python 3D imaging framework that facilitates non-technical users to discover micro-painting degradation in Kokomo glass test tiles; packaged a [3-step calibration sequence](https://pypi.org/project/GhostScan/)for Phase Measuring Deflectometry; benchmarked performance with FLIR camera on specular objects
 
 [Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/3DIM.pdf">Paper</a>
 
