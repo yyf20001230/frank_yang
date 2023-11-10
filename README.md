@@ -14,7 +14,7 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 ## Research
 
-<img src="/frank_yang/assets/img/3DIM.jpg" align="left" width="20%"/>
+<img src="/frank_yang/assets/img/3DIM.jpg" align="left" width="30%" margin-right="20px"/>
 
 ```
 some text floating around the image, which is also a piece of **shit**. <What is this??>
@@ -26,7 +26,7 @@ A "newline". This text doesn't float anymore, is left-aligned.
 
 
 
-<img src="/frank_yang/assets/img/3DIM.jpg" align="left" width="20%" />
+<img src="/frank_yang/assets/img/3DIM.jpg" align="left" width="30%" margin-right="20px"/>
 
 some text floating around the image, which is also a piece of **shit**. <What is this??>
 
