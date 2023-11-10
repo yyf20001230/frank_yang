@@ -60,7 +60,7 @@ Advised by: [Zach Wood Woughty](https://zachwd.com/)
 
 ## Project
 
-<img src="/frank_yang/assets/img/reminiscia.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
+<img src="/frank_yang/assets/img/reminiscia.jpg" width="35%" align="left" style="margin: 2rem 2rem 1rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Reminiscia</h3>
 _(Dec 2022 - May 2023)_
@@ -70,6 +70,7 @@ Implemented a multimodal text-to-image search application using pretrained visio
 <br>Distilled original 224MB CLIP model into an 85MB, 6-layer image encoder to improve inference speed
 
 <br clear="right" style="margin: 1rem 0rem 2rem">Northwestern Wildhacks / [Code](https://github.com/yyf20001230/reminiscia) 
+<br>
 <br>
 
 <img src="/frank_yang/assets/img/matcha.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
@@ -83,6 +84,7 @@ Launched a IOS application to assist Northwestern students with course planning 
 <br> Used by over 1000 Northwestern undergraduates every quarter; making updates from quarterly testing
 
 <br clear="right" style="margin: 1rem 0rem 2rem">[Code](https://github.com/yyf20001230/matchaNU)
+<br>
 <br>
 
 <img src="/frank_yang/assets/img/lightfield.jpg" width="35%" align="left" style="margin: 2rem 2rem 6rem 0rem"/>
