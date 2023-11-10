@@ -16,7 +16,7 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 ## Research
 
-<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 5rem 2rem 4rem 0rem"/>
+<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Efficient Encoding of Graphics Primitives with Simplex-based Structures</h3>
 
@@ -26,7 +26,7 @@ Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 MMLS 2023 / <a href="/frank_yang/assets/pdf/Encoding.pdf">Paper</a>
 
 
-<img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 5rem 2rem 5rem 0rem"/>
+<img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">High-quality 3D imaging with Commodity Devices</h3>
 
@@ -36,7 +36,7 @@ Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-
 <br clear="right">[Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/3DIM.pdf">Paper</a>
 
 
-<img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 5rem 2rem 5rem 0rem"/>
+<img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Transformer-based Lie Detection</h3>
 
