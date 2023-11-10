@@ -36,7 +36,12 @@ Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-
 <br clear="right">[Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/3DIM.pdf">Paper</a>
 
 
+<img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 5rem 2rem 5rem 0rem"/>
 
+Advised by: [Zach Wood Woughty](https://zachwd.com/)
+<br clear="right">Conceptualized a vision-based transformer that detects lies from multimodal inputs with PyTorch; trained a transformer encoder from fine-tuning Inceptionv3; pinpointed 20 micro-gestures and facial AUs that most contribute to lying; resulted an out-of-sample lying classification of 76%
+
+<br clear="right">[Code](https://github.com/yyf20001230/Lie_Detection)
 
 
 
