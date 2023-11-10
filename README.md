@@ -16,12 +16,12 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 ## Research
 
-<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 5rem 2rem 5rem 0rem"/>
+<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 5rem 2rem 4rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Efficient Encoding of Graphics Primitives with Simplex-based Structures</h3>
 
 Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
-<br clear="right">Surveyed on the encoding of graphics primitives proposed by “Instant NGP"; established theoretical foundations for simplex-based structure encodings and accelerated sample and interpolation speed on NeRF and SDF rendering with C++/CUDA kernels
+<br clear="right">Surveyed the encoding of graphics primitives proposed by “Instant NGP"; established theoretical foundations for simplex-based structure encodings and accelerated sample and interpolation speed on NeRF and SDF rendering with C++/CUDA kernels
 
 MMLS 2023 / <a href="/frank_yang/assets/pdf/Encoding.pdf">Paper</a>
 
@@ -38,33 +38,13 @@ Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-
 
 <img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 5rem 2rem 5rem 0rem"/>
 
+<h3 style="margin: 0rem 0rem 1rem">Transformer-based Lie Detection</h3>
+
 Advised by: [Zach Wood Woughty](https://zachwd.com/)
 <br clear="right">Conceptualized a vision-based transformer that detects lies from multimodal inputs with PyTorch; trained a transformer encoder from fine-tuning Inceptionv3; pinpointed 20 micro-gestures and facial AUs that most contribute to lying; resulted an out-of-sample lying classification of 76%
 
 <br clear="right">[Code](https://github.com/yyf20001230/Lie_Detection)
 
-
-
-
-
-
-
-
-<br clear="left"/>
-
-A "newline". This text doesn't float anymore, is left-aligned.
-
-
-
-<img src="/frank_yang/assets/img/3DIM.jpg" align="left" width="30%" margin-right="20px" margin-top="20px"/>
-
-some text floating around the image, which is also a piece of **shit**. <What is this??>
-
-```
-Some code block too
-```
-
-<br clear="left"/>
 
 ## Teaching
 
@@ -75,6 +55,8 @@ Some code block too
 ***Project Manager*** for Institute of Electrical and Electronics Engineers, 2022
 
 ## Project
+
+
 
 
 ## Work Experiences
