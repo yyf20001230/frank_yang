@@ -16,7 +16,7 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 ## Research
 
-<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
+<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Efficient Encoding of Graphics Primitives with Simplex-based Structures</h3>
 
@@ -24,7 +24,7 @@ Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 <br clear="right">Surveyed the encoding of graphics primitives proposed by “Instant NGP"; established theoretical foundations for simplex-based structure encodings and accelerated sample and interpolation speed on NeRF and SDF rendering with C++/CUDA kernels
 
 
-<br clear="right" style="margin-bottom: 1rem"> MMLS 2023 / <a href="/frank_yang/assets/pdf/Encoding.pdf">Paper</a>
+<br clear="right" style="margin: 1rem 0rem 2rem"> MMLS 2023 / <a href="/frank_yang/assets/pdf/Encoding.pdf">Paper</a>
 
 
 <img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
@@ -34,7 +34,7 @@ Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)
 <br clear="right">Created a python 3D imaging framework that facilitates non-technical users to discover micro-painting degradation in Kokomo glass test tiles; packaged a [3-step calibration sequence](https://pypi.org/project/GhostScan/)for Phase Measuring Deflectometry; benchmarked performance with FLIR camera on specular objects
 
-<br clear="right" style="margin-bottom: 1rem">[Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/3DIM.pdf">Paper</a>
+<br clear="right" style="margin: 1rem 0rem 2rem">[Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/3DIM.pdf">Paper</a>
 
 
 <img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
@@ -44,7 +44,7 @@ Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-
 Advised by: [Zach Wood Woughty](https://zachwd.com/)
 <br clear="right">Conceptualized a vision-based transformer that detects lies from multimodal inputs with PyTorch; trained a transformer encoder from fine-tuning Inceptionv3; pinpointed 20 micro-gestures and facial AUs that most contribute to lying; resulted an out-of-sample lying classification of 76%
 
-<br clear="right" style="margin-bottom: 1rem">[Code](https://github.com/yyf20001230/Lie_Detection)
+<br clear="right" style="margin: 1rem 0rem 2rem">[Code](https://github.com/yyf20001230/Lie_Detection)
 
 
 ## Teaching
@@ -66,7 +66,7 @@ _(Dec 2022 - May 2023)_
 <br>Employed Vision and CoreML to allow calculations of cosine similarity between text and image embeddings
 <br>Distilled original 224MB CLIP model into an 85MB, 6-layer image encoder to improve inference speed
 
-<br clear="right" style="margin-bottom: 1rem">Northwestern Wildhacks / [Code](https://github.com/yyf20001230/reminiscia) 
+<br clear="right" style="margin: 1rem 0rem 2rem">Northwestern Wildhacks / [Code](https://github.com/yyf20001230/reminiscia) 
 
 <img src="/frank_yang/assets/img/matcha.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
@@ -78,7 +78,7 @@ _(Jun 2021 - Feb 2022)_
 <br>Integrated UIKit with LocationManager in SwiftUI to track location and provide to classrooms navigation
 <br> Used by over 1000 Northwestern undergraduates every quarter; making updates from quarterly testing
 
-<br clear="right" style="margin-bottom: 1rem">[Code](https://github.com/yyf20001230/matchaNU)
+<br clear="right" style="margin: 1rem 0rem 2rem">[Code](https://github.com/yyf20001230/matchaNU)
 
 
 <img src="/frank_yang/assets/img/lightfield.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
@@ -90,7 +90,7 @@ _(Jul 2021 - Feb 2022)_
 <br>Researched capturing the light-field from a camera with known parameter with OpenCV
 <br>Tested with mirrorless-cam experiments and decreased the functional cost of a light-field camera by 3000%
 
-<br clear="right" style="margin-bottom: 1rem">[Code](https://github.com/yyf20001230/LightField)
+<br clear="right" style="margin: 1rem 0rem 2rem">[Code](https://github.com/yyf20001230/LightField)
 
 
 Reminiscia
