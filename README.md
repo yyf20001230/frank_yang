@@ -24,7 +24,7 @@ Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 
 <br clear="right">Surveyed on the encoding of graphics primitives proposed by “Instant NGP"; established theoretical foundations for simplex-based structure encodings and accelerated sample and interpolation speed on NeRF and SDF rendering with C++/CUDA kernels
 
-<br clear="right">MMLS 2023 | <a href="/frank_yang/assets/pdf/Encoding.pdf">Paper</a>
+MMLS 2023 | <a href="/frank_yang/assets/pdf/Encoding.pdf">Paper</a>
 
 
 <img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 5rem 2rem 5rem 0rem"/>
