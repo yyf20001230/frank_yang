@@ -34,7 +34,7 @@ Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)
 <br clear="right">Created a python 3D imaging framework that facilitates non-technical users to discover micro-painting degradation in Kokomo glass test tiles; packaged a [3-step calibration sequence](https://pypi.org/project/GhostScan/)for Phase Measuring Deflectometry; benchmarked performance with FLIR camera on specular objects
 
-<br clear="right" style="margin: 1rem 0rem 2rem">[Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/3DIM.pdf">Paper</a>
+<br clear="right" style="margin: 1rem 0rem 2rem">[3DIM Lab](https://3dim.northwestern.edu/) / [Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/3DIM.pdf">Paper</a>
 
 
 <img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
@@ -81,7 +81,7 @@ _(Jun 2021 - Feb 2022)_
 <br clear="right" style="margin: 1rem 0rem 2rem">[Code](https://github.com/yyf20001230/matchaNU)
 
 
-<img src="/frank_yang/assets/img/lightfield.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
+<img src="/frank_yang/assets/img/lightfield.jpg" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Single-Len Lightfield imaging</h3>
 _(Jul 2021 - Feb 2022)_
@@ -91,20 +91,6 @@ _(Jul 2021 - Feb 2022)_
 <br>Tested with mirrorless-cam experiments and decreased the functional cost of a light-field camera by 3000%
 
 <br clear="right" style="margin: 1rem 0rem 2rem">[Code](https://github.com/yyf20001230/LightField)
-
-
-Reminiscia
-Software Developer
-Evanston, IL
-Dec 2022 – May 2023
-PROJECTS
- ▪ Implemented a multimodal text-to-image search application using pretrained vision-language models; Competed in Northwestern Wildhacks
-▪ Employed Vision and CoreML on IOS to allow low-memory-usage calculations of cosine similarity between text and image embeddings
-▪ Distilled original 224MB CLIP model into an 85MB, 6-layer image encoder to improve inference speed on mobile device and improved the inference speed by 1.6 times with minimal loss on accuracy
-MatchaNU Evanston, IL
-Founder & Software Developer Jun 2021 – Feb 2022
-
-
 
 ## Work Experiences
 
