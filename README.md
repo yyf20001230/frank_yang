@@ -24,7 +24,7 @@ Created GhostScan, a python 3D imaging framework that facilitates non-technical 
 Packaged a [3-step calibration sequence](https://pypi.org/project/GhostScan/) (intrinsic, radiometric, and geometric) to PyPI, allowing µm-level precision prior to starting Phase Measuring Deflectometry
 Benchmarked performance with FLIR camera on specular objects
 
-[Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/frank_cv.pdf">Paper</a>
+[Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/3DIM.pdf">Paper</a>
 
 
 
