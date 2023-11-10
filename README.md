@@ -16,7 +16,7 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 <img src="/frank_yang/assets/img/3DIM.jpg" width="40%" align="left" padding-right="20px"/>
 
-<h3 margin="0rem">High-quality 3D imaging with Commodity Devices</h3>
+#### High-quality 3D imaging with Commodity Devices
 
 Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)
 
