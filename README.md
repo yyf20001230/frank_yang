@@ -62,7 +62,7 @@ Advised by: [Zach Wood Woughty](https://zachwd.com/)
 <h3 style="margin: 0rem 0rem 1rem">Reminiscia</h3>
 _(Dec 2022 - May 2023)_
 
-<br>Implemented a multimodal text-to-image search application using pretrained vision-language models
+Implemented a multimodal text-to-image search application using pretrained vision-language models
 <br>Employed Vision and CoreML to allow calculations of cosine similarity between text and image embeddings
 <br>Distilled original 224MB CLIP model into an 85MB, 6-layer image encoder to improve inference speed
 
@@ -73,7 +73,7 @@ _(Dec 2022 - May 2023)_
 <h3 style="margin: 0rem 0rem 1rem">MatchaNU</h3>
 _(Jun 2021 - Feb 2022)_
 
-<br>Launched a IOS application to assist Northwestern students with course planning and building navigation
+Launched a IOS application to assist Northwestern students with course planning and building navigation
 <br>Integrated Google Geocoding API to generate building name from scrapped catalog into geocoordinates
 <br>Integrated UIKit with LocationManager in SwiftUI to track location and provide to classrooms navigation
 <br> Used by over 1000 Northwestern undergraduates every quarter; making updates from quarterly testing
@@ -86,7 +86,7 @@ _(Jun 2021 - Feb 2022)_
 <h3 style="margin: 0rem 0rem 1rem">Single-Len Lightfield imaging</h3>
 _(Jul 2021 - Feb 2022)_
 
-<br>Introduced an alternative to a light-field camera that synthesizes camera focus point after a video is taken
+Introduced an alternative to a light-field camera that synthesizes camera focus point after a video is taken
 <br>Researched capturing the light-field from a camera with known parameter with OpenCV
 <br>Tested with mirrorless-cam experiments and decreased the functional cost of a light-field camera by 3000%
 
