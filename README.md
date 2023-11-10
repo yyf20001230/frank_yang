@@ -16,7 +16,7 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 <img src="/frank_yang/assets/img/3DIM.jpg" width="40%" align="left" padding-right="20px"/>
 
-High-quality 3D imaging with Commodity Devices</h3
+<h3 margin="0rem">High-quality 3D imaging with Commodity Devices</h3>
 
 Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)
 
@@ -62,7 +62,7 @@ Some code block too
 ### Software Engineer Intern @ [Target](https://www.target.com)
 _(June 2023 - Aug 2023)_
 
-<br>Developed a Golang application within a Vela CI/CD pipeline to enforce security and compliance standards
+Developed a Golang application within a Vela CI/CD pipeline to enforce security and compliance standards
 <br>Integrated Postgres with RestAPI for build lifecycle and versioning information retrieval and storage
 <br>Performed unit and integration testing with sqlmock and httptest, achieved service level objectives (SLOs)
 
@@ -71,7 +71,7 @@ _(June 2023 - Aug 2023)_
 ### Lead Tech Engineer @ [Skuy](https://www.skuy.app/)
 _(Apr 2022 - Present)_
 
-<br>Built a college community network app startup, amassed 500+ users on both the App Store and Google Play
+Built a college community network app startup, amassed 500+ users on both the App Store and Google Play
 <br>Led a 2-months database migration from Heroku to Firebase for service growth and stability
 <br>Managed pull requests for 8 tech engineers to ensure encrypted retrieval and storage for private user info
 <br>Configured CI/CD pipeline on Expo for IOS Pod and Android Gradle builds
@@ -80,13 +80,13 @@ _(Apr 2022 - Present)_
 ### Software Development Engineering Intern @ [Amazon](https://www.amazon.com/)
 _(Jun 2022 - Sep 2022)_
 
-<br>Implemented a Sagemaker webpage that provides benchmarked health and architecture evaluations for ML models
+Implemented a Sagemaker site that provides benchmarked health & architecture evaluations for ML models
 <br>Simplified frontend of S3 resource selector with React and Redux; unit tested with ESLint and Cypress
 <br>Presented a demo to Sagemaker engineers; received candidacy to beta-launch model cards on AWS Re:Invent
 
 ## Skills
 
-<br>***Languages***: Python, Go, TypeScript, SwiftUI, HTML/CSS/JavaScript, C++
+***Languages***: Python, Go, TypeScript, SwiftUI, HTML/CSS/JavaScript, C++
 <br>***Deep Learning***: Torch, CUDA, TensorFlow, OpenCV
 <br>***Web/Mobile Development***: React, React Native, Flask, Redux, Node, ESLint, Cypress
 <br>***DevOps***: RestAPI, AWS, Firebase, Heroku, Elastic Beanstalk, Git, Vela, Docker, MySQL, PostgresSQL
