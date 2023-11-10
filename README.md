@@ -16,7 +16,7 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 ## Research
 
-<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin-right: 2rem, margin-bottom: 10rem"/>
+<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin-right: 2rem margin-bottom: 10rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Efficient Encoding of Graphics Primitives with Simplex-based Structures</h3>
 
@@ -31,7 +31,7 @@ MMLS 2023
 
 
 
-<img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin-right: 2rem, margin-bottom: 10rem"/>
+<img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin-right: 2rem margin-bottom: 10rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">High-quality 3D imaging with Commodity Devices</h3>
 
