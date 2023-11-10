@@ -14,11 +14,21 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 ## Research
 
-<img src="/frank_yang/assets/img/3DIM.jpg" align="left" width="30%" margin-right="20px"/>
+<img src="/frank_yang/assets/img/3DIM.jpg" align="left" width="30%" margin-right="20px" margin-top="20px"/>
 
-```
-some text floating around the image, which is also a piece of **shit**. <What is this??>
-```
+### High-quality 3D imaging with Commodity Devices
+
+Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer)
+Assisted in creating GhostScan, a python 3D imaging framework that facilitates non-technical users to discover micro-painting degradation in Kokomo glass test tiles
+Streamlined and packaged a [3-step calibration sequence](https://pypi.org/project/GhostScan/) (intrinsic, radiometric, and geometric) to PyPI, allowing µm-level precision prior to starting Phase Measuring Deflectometry
+Benchmarked performance with FLIR camera on specular objects; lowered reprojection error to 0.34-pixel, decreased calibration time by 23 min
+
+[Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104)
+
+
+
+
+
 
 <br clear="left"/>
 
@@ -26,7 +36,7 @@ A "newline". This text doesn't float anymore, is left-aligned.
 
 
 
-<img src="/frank_yang/assets/img/3DIM.jpg" align="left" width="30%" margin-right="20px"/>
+<img src="/frank_yang/assets/img/3DIM.jpg" align="left" width="30%" margin-right="20px" margin-top="20px"/>
 
 some text floating around the image, which is also a piece of **shit**. <What is this??>
 
@@ -73,10 +83,10 @@ Presented a demo to Sagemaker engineers; received candidacy to beta-launch model
 
 ## Skills
 
-Languages: Python, Go, TypeScript, SwiftUI, HTML/CSS/JavaScript, C++
-Deep Learning: Torch, CUDA, TensorFlow, OpenCV
-Web/Mobile Development: React, React Native, Flask, Redux, Node, ESLint, Cypress
-DevOps: RestAPI, AWS, Firebase, Heroku, Elastic Beanstalk, Git, Vela, Docker, MySQL, PostgresSQL
+***Languages***: Python, Go, TypeScript, SwiftUI, HTML/CSS/JavaScript, C++
+***Deep Learning***: Torch, CUDA, TensorFlow, OpenCV
+***Web/Mobile Development***: React, React Native, Flask, Redux, Node, ESLint, Cypress
+***DevOps***: RestAPI, AWS, Firebase, Heroku, Elastic Beanstalk, Git, Vela, Docker, MySQL, PostgresSQL
 
 ## Photography
 
