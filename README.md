@@ -23,7 +23,8 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 <br clear="right">Surveyed the encoding of graphics primitives proposed by “Instant NGP"; established theoretical foundations for simplex-based structure encodings and accelerated sample and interpolation speed on NeRF and SDF rendering with C++/CUDA kernels
 
-MMLS 2023 / <a href="/frank_yang/assets/pdf/Encoding.pdf">Paper</a>
+
+<br clear="right" style="margin-bottom: 1rem"> MMLS 2023 / <a href="/frank_yang/assets/pdf/Encoding.pdf">Paper</a>
 
 
 <img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
@@ -33,7 +34,7 @@ MMLS 2023 / <a href="/frank_yang/assets/pdf/Encoding.pdf">Paper</a>
 Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)
 <br clear="right">Created a python 3D imaging framework that facilitates non-technical users to discover micro-painting degradation in Kokomo glass test tiles; packaged a [3-step calibration sequence](https://pypi.org/project/GhostScan/)for Phase Measuring Deflectometry; benchmarked performance with FLIR camera on specular objects
 
-<br clear="right">[Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/3DIM.pdf">Paper</a>
+<br clear="right" style="margin-bottom: 1rem">[Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/3DIM.pdf">Paper</a>
 
 
 <img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
@@ -43,7 +44,7 @@ Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-
 Advised by: [Zach Wood Woughty](https://zachwd.com/)
 <br clear="right">Conceptualized a vision-based transformer that detects lies from multimodal inputs with PyTorch; trained a transformer encoder from fine-tuning Inceptionv3; pinpointed 20 micro-gestures and facial AUs that most contribute to lying; resulted an out-of-sample lying classification of 76%
 
-<br clear="right">[Code](https://github.com/yyf20001230/Lie_Detection)
+<br clear="right" style="margin-bottom: 1rem">[Code](https://github.com/yyf20001230/Lie_Detection)
 
 
 ## Teaching
@@ -56,7 +57,32 @@ Advised by: [Zach Wood Woughty](https://zachwd.com/)
 
 ## Project
 
+<img src="/frank_yang/assets/img/lightfield.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
+<h3 style="margin: 0rem 0rem 1rem">Single-Len Lightfield imaging</h3>
+_(Jul 2021 - Feb 2022)_
+
+<br>Introduced an alternative to a light-field camera that synthesizes camera focus point after a video is taken
+<br>Researched capturing the light-field from a camera with known parameter with OpenCV
+<br>Tested with mirrorless-cam experiments and decreased the functional cost of a light-field camera by 3000%
+
+<br clear="right" style="margin-bottom: 1rem">[Code](https://github.com/yyf20001230/LightField)
+
+
+Reminiscia
+Software Developer
+Evanston, IL
+Dec 2022 – May 2023
+PROJECTS
+ ▪ Implemented a multimodal text-to-image search application using pretrained vision-language models; Competed in Northwestern Wildhacks
+▪ Employed Vision and CoreML on IOS to allow low-memory-usage calculations of cosine similarity between text and image embeddings
+▪ Distilled original 224MB CLIP model into an 85MB, 6-layer image encoder to improve inference speed on mobile device and improved the inference speed by 1.6 times with minimal loss on accuracy
+MatchaNU Evanston, IL
+Founder & Software Developer Jun 2021 – Feb 2022
+▪ Launched a native-IOS application to App Store to assist Northwestern students with course planning and building navigation
+▪ Web-scraped course catalog into classes in JSON format; integrated Google Geocoding API to generate building name from geocoordinates
+▪ Integrated UIKit with Apple Map and LocationManager in SwiftUI to track user location and calculate the optimal walking route to classrooms
+▪ Used by over 1000 Northwestern undergraduates every quarter; constantly making updates from user feedback and quarterly testing
 
 
 ## Work Experiences
