@@ -1,6 +1,6 @@
 # About
 
-I am currently pursuing a Bachelor's and Master's degree in Computer Science and Mathematics at Northwestern University. In the past, I had the privilege of collaborating with Professor Florian Willomitzer and Oliver Cossairt at the Computational Photography Lab, focusing on high-precision 3D image reconstruction. Presently, my efforts are directed towards research with Professor Qi Zhu at the Design Automation of Intelligent Systems Lab, where I am exploring reinforcement learning approaches for safety-critical control systems.
+I am currently pursuing a Bachelor's and Master's degree in Computer Science and Mathematics at Northwestern University. In the past, I had the privilege of collaborating with Professor [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and Oliver Cossairt(https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/) at the [3DIM Lab](https://3dim.northwestern.edu/), focusing on high-precision 3D image reconstruction. Presently, my efforts are directed towards research with Professor Qi Zhu at the Design Automation of Intelligent Systems Lab, where I am exploring reinforcement learning approaches for safety-critical control systems.
 
 I have a broad interest in computer vision and deep reinforcement learning. This curiosity fuels my research vision — a commitment to contributing to the evolution of self-driving technologies. Whether applied to robotics or commodity vehicles, I envision a future where vehicles navigate roads with an optimal balance of efficiency and safety.
 
@@ -16,9 +16,9 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 <img src="/frank_yang/assets/img/3DIM.jpg" width="40%" padding-right="20px"/>
 
-<h3 margin="0rem">High-quality 3D imaging with Commodity Devices</h3>
+High-quality 3D imaging with Commodity Devices</h3
 
-Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cossairt-oliver.html)
+Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)
 
 Created GhostScan, a python 3D imaging framework that facilitates non-technical users to discover micro-painting degradation in Kokomo glass test tiles
 Packaged a [3-step calibration sequence](https://pypi.org/project/GhostScan/) (intrinsic, radiometric, and geometric) to PyPI, allowing µm-level precision prior to starting Phase Measuring Deflectometry
