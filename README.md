@@ -57,6 +57,17 @@ Advised by: [Zach Wood Woughty](https://zachwd.com/)
 
 ## Project
 
+<img src="/frank_yang/assets/img/reminiscia.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
+
+<h3 style="margin: 0rem 0rem 1rem">Reminiscia</h3>
+_(Dec 2022 - May 2023)_
+
+<br>Implemented a multimodal text-to-image search application using pretrained vision-language models
+<br>Employed Vision and CoreML to allow calculations of cosine similarity between text and image embeddings
+<br>Distilled original 224MB CLIP model into an 85MB, 6-layer image encoder to improve inference speed
+
+<br clear="right" style="margin-bottom: 1rem">Northwestern Wildhacks / [Code](https://github.com/yyf20001230/reminiscia) 
+
 <img src="/frank_yang/assets/img/matcha.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">MatchaNU</h3>
