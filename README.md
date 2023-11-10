@@ -14,7 +14,20 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 
 ## Research
 
-<img src="/frank_yang/assets/img/">
+<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin-right: 2rem, margin-bottom: 10rem"/>
+
+<h3 style="margin: 0rem 0rem 1rem">Efficient Encoding of Graphics Primitives with Simplex-based Structures</h3>
+
+Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
+
+Surveyed the encoding method from “Instant NGP”; researched on more efficient encoding of graphics primitives for data compression and volumetric rendering; established theoretical foundations for simplex-based structure 
+and accelerated sample and interpolation speed on NeRF and SDF rendering with C++/CUDA kernels
+
+MMLS 2023 
+
+<a href="/frank_yang/assets/pdf/Encoding.pdf">Paper</a>
+
+
 
 <img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin-right: 2rem, margin-bottom: 10rem"/>
 
