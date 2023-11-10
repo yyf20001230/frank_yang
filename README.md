@@ -57,6 +57,19 @@ Advised by: [Zach Wood Woughty](https://zachwd.com/)
 
 ## Project
 
+<img src="/frank_yang/assets/img/matcha.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
+
+<h3 style="margin: 0rem 0rem 1rem">MatchaNU</h3>
+_(Jun 2021 - Feb 2022)_
+
+<br>Launched a IOS application to assist Northwestern students with course planning and building navigation
+<br>Integrated Google Geocoding API to generate building name from scrapped catalog into geocoordinates
+<br>Integrated UIKit with LocationManager in SwiftUI to track location and provide to classrooms navigation
+<br> Used by over 1000 Northwestern undergraduates every quarter; making updates from quarterly testing
+
+<br clear="right" style="margin-bottom: 1rem">[Code](https://github.com/yyf20001230/matchaNU)
+
+
 <img src="/frank_yang/assets/img/lightfield.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Single-Len Lightfield imaging</h3>
@@ -79,10 +92,7 @@ PROJECTS
 ▪ Distilled original 224MB CLIP model into an 85MB, 6-layer image encoder to improve inference speed on mobile device and improved the inference speed by 1.6 times with minimal loss on accuracy
 MatchaNU Evanston, IL
 Founder & Software Developer Jun 2021 – Feb 2022
-▪ Launched a native-IOS application to App Store to assist Northwestern students with course planning and building navigation
-▪ Web-scraped course catalog into classes in JSON format; integrated Google Geocoding API to generate building name from geocoordinates
-▪ Integrated UIKit with Apple Map and LocationManager in SwiftUI to track user location and calculate the optimal walking route to classrooms
-▪ Used by over 1000 Northwestern undergraduates every quarter; constantly making updates from user feedback and quarterly testing
+
 
 
 ## Work Experiences
