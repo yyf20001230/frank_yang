@@ -6,7 +6,7 @@ I have a broad interest in computer vision and deep reinforcement learning. This
 
 I deeply believe in human ingenuity and the potential of Artificial Intelligence. 10 years from now, I want to be a computer vision scientist, immersing myself in a pioneering industry capable of pushing the limit of autonomous driving.
 
-Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf">CV</a> for a full list of work, teaching, and other experiences.
+Please see my <a href="/assets/pdf/frank_cv.pdf">CV</a> for a full list of work, teaching, and other experiences.
 
 ## Publications
 
