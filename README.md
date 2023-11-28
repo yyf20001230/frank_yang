@@ -6,11 +6,11 @@ I have a broad interest in computer vision and deep reinforcement learning. This
 
 I deeply believe in human ingenuity and the potential of Artificial Intelligence. 10 years from now, I want to be a computer vision scientist, immersing myself in a pioneering industry capable of pushing the limit of autonomous driving.
 
-Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target=”_blank”>CV</a> for a full list of work, teaching, and other experiences.
+Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</a> for a full list of work, teaching, and other experiences.
 
 ## Publications
 
-Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based Structures.** Midwest Machine Learning Symposium, 2023. <a href="https://arxiv.org/abs/2311.15439" target=”_blank”>Paper</a>
+Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based Structures.** Midwest Machine Learning Symposium, 2023. <a href="https://arxiv.org/abs/2311.15439" target="_blank">Paper</a>
 
 
 
@@ -24,7 +24,7 @@ Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 <br clear="right">Surveyed the encoding of graphics primitives proposed by “Instant NGP"; established theoretical foundations for simplex-based structure encodings and accelerated sample and interpolation speed on NeRF and SDF rendering with C++/CUDA kernels
 
 
-<br clear="right" style="margin: 1rem 0rem 2rem"> MMLS 2023 / <a href="/frank_yang/assets/pdf/Encoding.pdf" target=”_blank”>Paper</a>
+<br clear="right" style="margin: 1rem 0rem 2rem"> MMLS 2023 / <a href="/frank_yang/assets/pdf/Encoding.pdf" target="_blank">Paper</a>
 
 <br>
 
@@ -36,7 +36,7 @@ Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)
 <br clear="right">Created a python 3D imaging framework that facilitates non-technical users to discover micro-painting degradation in Kokomo glass test tiles; packaged a [3-step calibration sequence](https://pypi.org/project/GhostScan/)for Phase Measuring Deflectometry; benchmarked performance with FLIR camera on specular objects
 
-<br clear="right" style="margin: 1rem 0rem 2rem">[3DIM Lab](https://3dim.northwestern.edu/) / [Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/3DIM.pdf" target=”_blank”>Paper</a>
+<br clear="right" style="margin: 1rem 0rem 2rem">[3DIM Lab](https://3dim.northwestern.edu/) / [Page](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9027&id=429104) / <a href="/frank_yang/assets/pdf/3DIM.pdf" target="_blank">Paper</a>
 
 <br>
 
