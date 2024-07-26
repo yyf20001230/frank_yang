@@ -2,13 +2,15 @@
 
 I am currently pursuing a Bachelor's and Master's degree in Computer Science and Mathematics at Northwestern University. In the past, I had the privilege of collaborating with Professor [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/) at the [3DIM Lab](https://3dim.northwestern.edu/), focusing on high-precision 3D image reconstruction. Presently, my efforts are directed towards research with Professor [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/) at the [Design Automation of Intelligent Systems Lab](http://zhulab.eecs.northwestern.edu/index.html), where I am exploring reinforcement learning approaches for safety-critical control systems.
 
-I have a broad interest in computer vision and deep reinforcement learning. This curiosity fuels my research vision — a commitment to contributing to the evolution of self-driving technologies. Whether applied to robotics or commodity vehicles, I envision a future where vehicles navigate roads with an optimal balance of efficiency and safety.
+I have a broad interest in robotic learning and control. This curiosity fuels my research vision — a commitment to contributing to the evolution of self-driving technologies. Whether applied to robotics or commodity vehicles, I envision a future where vehicles navigate roads with an optimal balance of efficiency and safety.
 
 I deeply believe in human ingenuity and the potential of Artificial Intelligence. 10 years from now, I want to be a computer vision scientist, immersing myself in a pioneering industry capable of pushing the limit of autonomous driving.
 
 Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</a> for a full list of work, teaching, and other experiences.
 
 ## Publications
+
+Frank Y., Simon Z., Yixuan, W., et al. **Runtime Safety Verification of Neural Network Controlled System.** Runtime Verification, 2024. 
 
 Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based Structures.** Midwest Machine Learning Symposium, 2023. <a href="https://arxiv.org/abs/2311.15439" target="_blank">Paper</a>
 
@@ -133,9 +135,9 @@ Implemented a Sagemaker site that provides benchmarked health & architecture eva
 <br>***Web/Mobile Development***: React, React Native, Flask, Redux, Node, ESLint, Cypress
 <br>***DevOps***: RestAPI, AWS, Firebase, Heroku, Elastic Beanstalk, Git, Vela, Docker, MySQL, PostgresSQL
 
-## Photography
+## Cimematography
 
-Coming soon...
+Outside of school, I am a freelance photographer taking landscape, portrait, and graduation photos. In my creative endeavor, I am a cinematographer working on film projects such as Applause For A Cause and TEDx. I am committed to creating cinematic lighting and true-story shots that evokes emotion. Please visit [my photography/film portfolio](https://sashimiphotos.com) for more detail!
 
 [CV]: https://drive.google.com/file/d/1N12Cp6jPBLxFuq8aSnU8ce0lNnC8ykTj/view?usp=sharing
 [blog]: https://hydejack.com/blog/
