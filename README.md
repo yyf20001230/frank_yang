@@ -8,9 +8,16 @@ I deeply believe in human ingenuity and the potential of Artificial Intelligence
 
 Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</a> for a full list of work, teaching, and other experiences.
 
+## News
+- **[October 2024]** - Invited talk at RV 2024
+- **[August 2024]** - Submitted POLAR-express to [Embedded Systems Week 2024](https://esweek.org/)
+- **[July 2024]** - One paper accepted to RV 2024
+- **[June 2024]** - Started as a robotics learning intern at Stanford Vision and Learning Lab
+- **[May 2023]** - One paper accepted to MMLS 2023
+
 ## Publications
 
-Frank Y., Simon Z., Yixuan, W., et al. **Runtime Safety Verification of Neural Network Controlled System.** Runtime Verification, 2024. 
+Frank Y., Simon Z., Yixuan, W., et al. **Runtime Safety Verification of Neural Network Controlled System.** Runtime Verification, 2024. <a href="" target="_blank">Paper</a>
 
 Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based Structures.** Midwest Machine Learning Symposium, 2023. <a href="https://arxiv.org/abs/2311.15439" target="_blank">Paper</a>
 
