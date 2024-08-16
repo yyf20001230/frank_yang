@@ -158,7 +158,9 @@ Implemented a Sagemaker site that provides benchmarked health & architecture eva
 
 ## Cimematography
 
-Outside of school, I am a freelance photographer taking landscape, portrait, and graduation photos. In my creative endeavor, I am a cinematographer working on film projects such as Applause For A Cause and TEDx. I am committed to creating cinematic lighting and true-story shots that evokes emotion. Please visit [my photography/film portfolio](https://sashimiphotos.com) for more detail!
+<img src="/frank_yang/assets/img/photography.png" width="35%" align="left" style="margin:2rem 2rem 5rem 0rem"/>
+
+<br clear="right"> Outside of school, I am a freelance photographer taking landscape, portrait, and graduation photos. In my creative endeavor, I am a cinematographer working on film projects such as Applause For A Cause and TEDx. I am committed to creating cinematic lighting and true-story shots that evokes emotion. Please visit [my photography/film portfolio](https://sashimiphotos.com) for more detail!
 
 [CV]: https://drive.google.com/file/d/1N12Cp6jPBLxFuq8aSnU8ce0lNnC8ykTj/view?usp=sharing
 [blog]: https://hydejack.com/blog/
