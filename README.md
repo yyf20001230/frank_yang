@@ -23,14 +23,14 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 
 ## Research Projects
 
-<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
+<!-- <img src="/frank_yang/assets/img/Behavior.png" width="40%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Behavior 1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation</h3>
 
 Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 <br clear="right"> Development on BEHAVIOR-1K: 1000 embodied-AI robotic learning simulation benchmark built upon NVIDIA Omniverse engine; Designed Action Primitive Based Motion Planning for Curobot
 
-<br clear="right" style="margin: 1rem 0rem 2rem"><a href="https://behavior.stanford.edu/behavior-1k" target="_blank">Project Page</a>
+<br clear="right" style="margin: 1rem 0rem 2rem"><a href="https://behavior.stanford.edu/behavior-1k" target="_blank">Project</a> -->
 
 <img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 5rem 0rem"/>
 
