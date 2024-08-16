@@ -12,18 +12,25 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 - **[October 2024]** - Invited talk at RV 2024
 - **[August 2024]** - Submitted POLAR-express to [Embedded Systems Week 2024](https://esweek.org/)
 - **[July 2024]** - One paper accepted to RV 2024
-- **[June 2024]** - Started as a robotics learning intern at Stanford Vision and Learning Lab
+- **[June 2024]** - Started as a robotics learning intern at [Stanford Vision and Learning Lab](https://svl.stanford.edu/)
 - **[May 2023]** - One paper accepted to MMLS 2023
 
 ## Publications
 
-Frank Y., Simon Z., Yixuan, W., et al. **Runtime Safety Verification of Neural Network Controlled System.** Runtime Verification, 2024. <a href="" target="_blank">Paper</a>
+**F. Yang**, S. Zhan, Y. Wang, et al. Runtime Safety Verification of Neural Network Controlled System. Runtime Verification, 2024. <a href="" target="_blank">Paper</a>
 
-Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based Structures.** Midwest Machine Learning Symposium, 2023. <a href="https://arxiv.org/abs/2311.15439" target="_blank">Paper</a>
+**F. Yang**, Y. Wen. Efficient Encoding of Graphics Primitives with Simplex-based Structures. Midwest Machine Learning Symposium, 2023. <a href="https://arxiv.org/abs/2311.15439" target="_blank">Paper</a>
 
+## Research Projects
 
+<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
-## Research
+<h3 style="margin: 0rem 0rem 1rem">Behavior 1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation</h3>
+
+Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
+<br clear="right"> Development on BEHAVIOR-1K: 1000 embodied-AI robotic learning simulation benchmark built upon NVIDIA Omniverse engine; Designed Action Primitive Based Motion Planning for Curobot
+
+<a href="https://behavior.stanford.edu/behavior-1k" target="_blank">Project Page</a>
 
 <img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
@@ -32,11 +39,9 @@ Yang, F., Wen, Y. **Efficient Encoding of Graphics Primitives with Simplex-based
 Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 <br clear="right">Surveyed the encoding of graphics primitives proposed by “Instant NGP"; established theoretical foundations for simplex-based structure encodings and accelerated sample and interpolation speed on NeRF and SDF rendering with C++/CUDA kernels
 
-
 <br clear="right" style="margin: 1rem 0rem 2rem"> MMLS 2023 / <a href="/frank_yang/assets/pdf/Encoding.pdf" target="_blank">Paper</a>
 
 <br>
-
 
 <img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
