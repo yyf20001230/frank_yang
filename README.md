@@ -23,7 +23,7 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 
 ## Research Projects
 
-<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin:2rem 2rem 2rem 0rem"/>
+<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin:2rem 2rem 1rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Behavior 1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation</h3>
 
@@ -158,7 +158,7 @@ Implemented a Sagemaker site that provides benchmarked health & architecture eva
 
 ## Cimematography
 
-<img src="/frank_yang/assets/img/photography.png" width="45%" align="left" style="margin:2rem 2rem 5rem 0rem"/>
+<img src="/frank_yang/assets/img/photography.png" width="40%" align="left" style="margin:2rem 4rem 5rem 0rem"/>
 
 <br clear="right"> Outside of school, I am a freelance photographer taking landscape, portrait, and graduation photos. In my creative endeavor, I am a cinematographer working on film projects such as Applause For A Cause and TEDx. I am committed to creating cinematic lighting and true-story shots that evokes emotion. Please visit my [portfolio](https://sashimiphotos.com) for more detail!
 
