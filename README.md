@@ -32,6 +32,15 @@ Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 
 <a href="https://behavior.stanford.edu/behavior-1k" target="_blank">Project Page</a>
 
+<img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 5rem 0rem"/>
+
+<h3 style="margin: 0rem 0rem 1rem">POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems</h3>
+
+Advised by: [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/)
+<br clear="right"> Performed runtime safety verification case study with POLAR-express on Turtlebot3 in ROS2 simulation; Proposed online controller switch strategy for safety-critical control systems with neural networks
+
+<a href="/frank_yang/assets/pdf/POLAR-express.pdf"> Tool Presentation</a>
+
 <img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Efficient Encoding of Graphics Primitives with Simplex-based Structures</h3>
