@@ -14,7 +14,7 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 
 ## News
 - **[October 2024]** - Invited talk at RV 2024
-- **[August 2024]** - Submitted POLAR-express to [Embedded Systems Week 2024](https://esweek.org/)
+- **[August 2024]** - Submitted POLAR-express to [Embedded Systems Week 2024](https://esweek.org/) tool presentation
 - **[July 2024]** - One paper accepted to RV 2024
 - **[June 2024]** - Started as a robotics learning intern at [Stanford Vision and Learning Lab](https://svl.stanford.edu/)
 - **[May 2023]** - One paper accepted to MMLS 2023
