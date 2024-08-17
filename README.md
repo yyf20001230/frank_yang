@@ -27,7 +27,7 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 
 ## Research Projects
 
-<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin:2rem 2rem 1rem 0rem"/>
+<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin:2rem 2rem 0rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Behavior 1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation</h3>
 
@@ -36,7 +36,7 @@ Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 
 <br clear="right" style="margin: 1rem 0rem 2rem"><a href="https://behavior.stanford.edu/behavior-1k" target="_blank">Project</a>
 
-<img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 5rem 0rem"/>
+<img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 4rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems</h3>
 
@@ -45,7 +45,7 @@ Advised by: [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/)
 
 <br clear="right" style="margin: 1rem 0rem 2rem"><a href="/frank_yang/assets/pdf/POLAR-express.pdf"> Tool Presentation</a>
 
-<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
+<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Efficient Encoding of Graphics Primitives with Simplex-based Structures</h3>
 
@@ -56,7 +56,7 @@ Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 
 <br>
 
-<img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
+<img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 2rem 2rem 3rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">High-quality 3D imaging with Commodity Devices</h3>
 
@@ -67,7 +67,7 @@ Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-
 
 <br>
 
-<img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
+<img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 3rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Transformer-based Lie Detection</h3>
 
