@@ -1,6 +1,6 @@
 # About
 
-Hi! My name is Frank, I am currently a Computer Science MS student at Northwestern University at the [Design Automation of Intelligent Systems Lab](http://zhulab.eecs.northwestern.edu/index.html) advised by Prof. [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/). Presently, I am also working as a Robotics Learning Intern at the [Stanford Vision and Learning Lab](https://svl.stanford.edu/) advised by Prof. [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li). 
+Hi! My name is Frank, I am currently a Computer Science MS student at Northwestern University at the [Design Automation of Intelligent Systems Lab](http://zhulab.eecs.northwestern.edu/index.html) advised by Prof. [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/). I also work closely with Prof. [Chao Huang](https://chaohuang2018.github.io/) at University of Southampton. Presently, I am also working as a Robotics Learning Intern at the [Stanford Vision and Learning Lab](https://svl.stanford.edu/) advised by Prof. [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li). 
 
 <!-- My research focuses on reinforcement learning approaches for safety-critical control systems. I am also pursuing a Bachelor's degree in Mathematics and Computer Science. I am passionate about robotic learning and control, and I am committed to contributing to the evolution of self-driving technologies.Presently, my efforts are directed towards research with Professor [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/) at the [Design Automation of Intelligent Systems Lab](http://zhulab.eecs.northwestern.edu/index.html), where I am exploring reinforcement learning approaches for safety-critical control systems. -->
 
@@ -16,7 +16,7 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 - **[October 2024]** - Invited talk at RV 2024
 - **[August 2024]** - Submitted POLAR-express to [Embedded Systems Week 2024](https://esweek.org/) tool presentation
 - **[July 2024]** - One paper accepted to RV 2024
-- **[June 2024]** - Started as a robotics learning intern at [Stanford Vision and Learning Lab](https://svl.stanford.edu/)
+- **[June 2024]** - Started as a Robotic Learning Intern at [Stanford Vision and Learning Lab](https://svl.stanford.edu/)
 - **[May 2023]** - One paper accepted to MMLS 2023
 
 ## Publications
