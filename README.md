@@ -45,7 +45,7 @@ Advised by: [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/)
 
 <br clear="right" style="margin: 1rem 0rem 2rem"><a href="/frank_yang/assets/pdf/POLAR-express.pdf"> Tool Presentation</a>
 
-<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
+<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Efficient Encoding of Graphics Primitives with Simplex-based Structures</h3>
 
@@ -56,7 +56,7 @@ Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 
 <br>
 
-<img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 2rem 2rem 3rem 0rem"/>
+<img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">High-quality 3D imaging with Commodity Devices</h3>
 
@@ -79,9 +79,11 @@ Advised by: [Zach Wood Woughty](https://zachwd.com/)
 
 ## Teaching
 
-***Undergraduate TA*** for CS396: [Intro to Web Development](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-6.html) taught by Sarah Van Wart, Spring 2022
+***Graduate TA*** for CS340: [Computer Networking](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/340.html) taught by Alexandar Kuzmanovic, Winter 2023
 
 ***Graduate TA*** for CS310: [Scalable Software Architectures](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/310.html) taught by Joe Hummel, Fall 2023
+
+***Undergraduate TA*** for CS396: [Intro to Web Development](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-6.html) taught by Sarah Van Wart, Spring 2022
 
 ***Project Manager*** for Institute of Electrical and Electronics Engineers, 2022
 
