@@ -8,7 +8,7 @@ I received my Bachelor's Degree in Computer Science and Mathematics at 2024, als
 
 I have a broad interest in robotic learning and control. This curiosity fuels my research vision — a commitment to contributing to the evolution of self-driving technologies. Whether applied to robotics or commodity vehicles, I envision a future where vehicles navigate roads with an optimal balance of efficiency and safety.
 
-I deeply believe in human ingenuity and the potential of Artificial Intelligence. 10 years from now, I want to be a computer vision scientist, immersing myself in a pioneering industry capable of pushing the limit of autonomous driving.
+I deeply believe in human ingenuity and the potential of Artificial Intelligence. 10 years from now, I want to be a roboticist, immersing myself in a pioneering industry capable of pushing the limit of autonomous driving.
 
 Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</a> for a full list of work, teaching, and other experiences.
 
