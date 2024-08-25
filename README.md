@@ -34,14 +34,14 @@ Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 
 <br clear="right" style="margin: 1rem 0rem 2rem"><a href="https://behavior.stanford.edu/behavior-1k" target="_blank">Project</a> / <a href="https://arxiv.org/abs/2403.09227" target="_blank">Paper</a>
 
-<img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 6rem 0rem"/>
+<img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems</h3>
 
 Advised by: [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/)
 <br clear="right"> Performed runtime safety verification case study with POLAR-express on Turtlebot3 in ROS2 simulation; Proposed online controller switch strategy for safety-critical control systems with neural networks
 
-<br clear="right" style="margin: 1rem 0rem 2rem"><a href="https://arxiv.org/abs/2408.08592" target="_blank">Paper</a> / <a href="/frank_yang/assets/pdf/POLAR-express.pdf">Tool</a>
+<br clear="right" style="margin: 1rem 0rem 2rem"><a href="https://arxiv.org/abs/2408.08592" target="_blank">Paper</a> / <a href="/frank_yang/assets/pdf/POLAR-express.pdf" target="_blank">Tool</a>
 
 <img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
@@ -77,14 +77,12 @@ Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-
 
 ## Other Projects
 
-<img src="/frank_yang/assets/img/quadrotor.jpg" width="35%" align="left" style="margin: 2rem 2rem 2rem 0rem"/>
+<img src="/frank_yang/assets/img/quadrotor.jpg" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Quadrotor Design and Control</h3>
 _(Mar 2024 - Jun 2024)_
 
-Developed a WiFi-enabled quadrotor using Raspberry Pi and IMU, implemented PID control for stable flight
-<br>Implemented safety measures and joystick interfacing in C that allows manual flight control
-<br>Integrated Vive Lighthouse with IR sensors to enable autonomous flight control with precise 3D positioning
+Developed a WiFi-enabled quadrotor using Raspberry Pi and IMU; implemented PID control, safety measures, and joystick interfacing in C that allows stable manual flight control; integrated Vive Lighthouse with IR sensors to enable autonomous flight control with precise 3D positioning
 
 <br clear="right" style="margin: 1rem 0rem 2rem">[Code](https://github.com/yyf20001230/CS410) 
 <br>
@@ -94,15 +92,13 @@ Developed a WiFi-enabled quadrotor using Raspberry Pi and IMU, implemented PID c
 <h3 style="margin: 0rem 0rem 1rem">Reminiscia</h3>
 _(Dec 2022 - May 2023)_
 
-Implemented a multimodal text-to-image search application using pretrained vision-language models
-<br>Employed Vision and CoreML to allow calculations of cosine similarity between text and image embeddings
-<br>Distilled original 224MB CLIP model into an 85MB, 6-layer image encoder to improve inference speed
+Implemented a multimodal text-to-image search application using pretrained vision-language models; employed Vision and CoreML to allow calculations of cosine similarity between text and image embeddings; distilled original 224MB CLIP model into an 85MB, 6-layer image encoder to improve inference speed
 
 <br clear="right" style="margin: 1rem 0rem 2rem">[Code](https://github.com/yyf20001230/reminiscia) 
 <br>
 <br>
 
-<img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 3rem 0rem"/>
+<img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Transformer-based Lie Detection</h3>
 _(Feb 2022 - Jan 2023)_
