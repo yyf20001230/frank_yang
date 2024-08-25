@@ -30,7 +30,7 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 <br clear="right"> Development on BEHAVIOR-1K: 1000 embodied-AI robotic learning simulation benchmark built upon NVIDIA Omniverse engine; Designed Action Primitive Based Motion Planning for Curobot
 
-<br clear="right" style="margin: 0rem 0rem 1rem"><a href="https://behavior.stanford.edu/behavior-1k" target="_blank">Project</a> / <a href="https://arxiv.org/abs/2403.09227" target="_blank">Paper</a>
+<br clear="right"><a href="https://behavior.stanford.edu/behavior-1k" target="_blank">Project</a> / <a href="https://arxiv.org/abs/2403.09227" target="_blank">Paper</a>
 
 <img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 5rem 0rem"/>
 
@@ -39,7 +39,7 @@ Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 Advised by: [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/)
 <br clear="right"> Performed runtime safety verification case study with POLAR-express on Turtlebot3 in ROS2 simulation; Proposed online controller switch strategy for safety-critical control systems with neural networks
 
-<br clear="right" style="margin: 0rem 0rem 1rem"><a href="https://arxiv.org/abs/2408.08592" target="_blank">Paper</a> / <a href="/frank_yang/assets/pdf/POLAR-express.pdf" target="_blank">Tool</a>
+<br clear="right"><a href="https://arxiv.org/abs/2408.08592" target="_blank">Paper</a> / <a href="/frank_yang/assets/pdf/POLAR-express.pdf" target="_blank">Tool</a>
 
 <img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
@@ -48,7 +48,7 @@ Advised by: [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/)
 Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 <br clear="right">Surveyed the encoding of graphics primitives proposed by “Instant NGP"; established theoretical foundations for simplex-based structure encodings and accelerated sample and interpolation speed on NeRF and SDF rendering with C++/CUDA kernels
 
-<br clear="right" style="margin: 0rem 0rem 1rem"><a href="/frank_yang/assets/pdf/Encoding.pdf" target="_blank">Paper</a>
+<br clear="right"><a href="/frank_yang/assets/pdf/Encoding.pdf" target="_blank">Paper</a>
 
 <img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
@@ -57,7 +57,11 @@ Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)
 <br clear="right">Created a python 3D imaging framework that facilitates non-technical users to discover micro-painting degradation in Kokomo glass test tiles; packaged a [3-step calibration sequence](https://pypi.org/project/GhostScan/)for Phase Measuring Deflectometry; benchmarked performance with FLIR camera on specular objects
 
-<br clear="right" style="margin: 0rem 0rem 1rem"><a href="/frank_yang/assets/pdf/3DIM.pdf" target="_blank">Paper</a>
+<br clear="right"><a href="/frank_yang/assets/pdf/3DIM.pdf" target="_blank">Paper</a>
+
+## Research Interests
+
+Pending
 
 ## Teaching
 
