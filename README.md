@@ -2,13 +2,11 @@
 
 Hi! My name is Frank, I am currently a Computer Science MS student at Northwestern University at the [Design Automation of Intelligent Systems Lab](http://zhulab.eecs.northwestern.edu/index.html) advised by Prof. [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/). I also work closely with Prof. [Chao Huang](https://chaohuang2018.github.io/) at University of Southampton. Presently, I am also working as a Robotics Learning Intern at the [Stanford Vision and Learning Lab](https://svl.stanford.edu/) advised by Prof. [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li). 
 
-<!-- My research focuses on reinforcement learning approaches for safety-critical control systems. I am also pursuing a Bachelor's degree in Mathematics and Computer Science. I am passionate about robotic learning and control, and I am committed to contributing to the evolution of self-driving technologies.Presently, my efforts are directed towards research with Professor [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/) at the [Design Automation of Intelligent Systems Lab](http://zhulab.eecs.northwestern.edu/index.html), where I am exploring reinforcement learning approaches for safety-critical control systems. -->
-
 I received my Bachelor's Degree in Computer Science and Mathematics at 2024, also from Northwestern University. I had the privilege of collaborating with Professor [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/) at the [3DIM Lab](https://3dim.northwestern.edu/). 
 
-I have a broad interest in robotic learning and control. This curiosity fuels my research vision — a commitment to contributing to the evolution of self-driving technologies. Whether applied to robotics or commodity vehicles, I envision a future where vehicles navigate roads with an optimal balance of efficiency and safety.
+I have a broad interest in robotic learning and control. This curiosity fuels my research vision — a commitment to contributing to the evolution of robotic autonomy. Whether applied to robotics or commodity vehicles, I envision a future where vehicles navigate roads with an optimal balance of efficiency and safety.
 
-I deeply believe in human ingenuity and the potential of Artificial Intelligence. 10 years from now, I want to be a roboticist, immersing myself in a pioneering industry capable of pushing the limit of autonomous driving.
+I deeply believe in human ingenuity and the potential of Artificial Intelligence. 10 years from now, I want to be a roboticist, immersing myself in a pioneering industry capable of pushing robotics to learning long-horizon daily tasks, .
 
 Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</a> for a full list of work, teaching, and other experiences.
 
@@ -21,22 +19,22 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 
 ## Publications
 
-**F. Yang**, S. Zhan, Y. Wang, et al. Runtime Safety Verification of Neural Network Controlled System. Runtime Verification, 2024. <a href="" target="_blank">Paper</a>
+**F. Yang**, S. Zhan, Y. Wang, et al. Runtime Safety Verification of Neural Network Controlled System. Runtime Verification, 2024. <a href="https://arxiv.org/abs/2408.08592" target="_blank">Paper</a>
 
 **F. Yang**, Y. Wen. Efficient Encoding of Graphics Primitives with Simplex-based Structures. Midwest Machine Learning Symposium, 2023. <a href="https://arxiv.org/abs/2311.15439" target="_blank">Paper</a>
 
 ## Research Projects
 
-<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin:2rem 2rem 0rem 0rem"/>
+<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin:2rem 2rem 2rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Behavior 1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation</h3>
 
 Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 <br clear="right"> Development on BEHAVIOR-1K: 1000 embodied-AI robotic learning simulation benchmark built upon NVIDIA Omniverse engine; Designed Action Primitive Based Motion Planning for Curobot
 
-<br clear="right" style="margin: 1rem 0rem 2rem"><a href="https://behavior.stanford.edu/behavior-1k" target="_blank">Project</a>
+<br clear="right" style="margin: 1rem 0rem 2rem"><a href="https://behavior.stanford.edu/behavior-1k" target="_blank">Project</a> / <a href="https://arxiv.org/abs/2403.09227" target="_blank">Paper</a>
 
-<img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 4rem 0rem"/>
+<img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 6rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems</h3>
 
@@ -67,16 +65,6 @@ Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-
 
 <br>
 
-<img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 3rem 0rem"/>
-
-<h3 style="margin: 0rem 0rem 1rem">Transformer-based Lie Detection</h3>
-
-Advised by: [Zach Wood Woughty](https://zachwd.com/)
-<br clear="right">Conceptualized a vision-based transformer that detects lies from multimodal inputs with PyTorch; trained a transformer encoder from fine-tuning Inceptionv3; pinpointed 20 micro-gestures and facial AUs that most contribute to lying; resulted an out-of-sample lying classification of 76%
-
-<br clear="right" style="margin: 1rem 0rem 2rem">[Code](https://github.com/yyf20001230/Lie_Detection)
-<br>
-
 ## Teaching
 
 ***Graduate TA*** for CS340: [Computer Networking](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/340.html) taught by Alexandar Kuzmanovic, Winter 2023
@@ -87,7 +75,7 @@ Advised by: [Zach Wood Woughty](https://zachwd.com/)
 
 ***Project Manager*** for Institute of Electrical and Electronics Engineers, 2022
 
-## Project
+## Other Projects
 
 <img src="/frank_yang/assets/img/reminiscia.jpg" width="35%" align="left" style="margin: 2rem 2rem 1rem 0rem"/>
 
@@ -102,7 +90,17 @@ Implemented a multimodal text-to-image search application using pretrained visio
 <br>
 <br>
 
-<img src="/frank_yang/assets/img/matcha.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
+<img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 3rem 0rem"/>
+
+<h3 style="margin: 0rem 0rem 1rem">Transformer-based Lie Detection</h3>
+
+Advised by: [Zach Wood Woughty](https://zachwd.com/)
+<br clear="right">Conceptualized a vision-based transformer that detects lies from multimodal inputs with PyTorch; trained a transformer encoder from fine-tuning Inceptionv3; pinpointed 20 micro-gestures and facial AUs that most contribute to lying; resulted an out-of-sample lying classification of 76%
+
+<br clear="right" style="margin: 1rem 0rem 2rem">[Code](https://github.com/yyf20001230/Lie_Detection)
+<br>
+
+<!-- <img src="/frank_yang/assets/img/matcha.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">MatchaNU</h3>
 _(Jun 2021 - Feb 2022)_
@@ -114,9 +112,9 @@ Launched a IOS application to assist Northwestern students with course planning 
 
 <br clear="right" style="margin: 1rem 0rem 2rem">[Code](https://github.com/yyf20001230/matchaNU)
 <br>
-<br>
+<br> -->
 
-<img src="/frank_yang/assets/img/lightfield.jpg" width="35%" align="left" style="margin: 2rem 2rem 6rem 0rem"/>
+<!-- <img src="/frank_yang/assets/img/lightfield.jpg" width="35%" align="left" style="margin: 2rem 2rem 6rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Single-Len Lightfield imaging</h3>
 _(Jul 2021 - Feb 2022)_
@@ -126,30 +124,25 @@ Introduced an alternative to a light-field camera that synthesizes camera focus 
 <br>Tested with mirrorless-cam experiments and decreased the functional cost of a light-field camera by 3000%
 
 <br clear="right" style="margin: 1rem 0rem 2rem">[Code](https://github.com/yyf20001230/LightField)
-<br>
+<br> -->
 
 ## Work Experiences
 
-### Software Engineer Intern @ [Target](https://www.target.com)
-_(June 2023 - Aug 2023)_
+***Software Engineer Intern*** @ [Target](https://www.target.com) _(June 2023 - Aug 2023)_
+
 
 Developed a Golang application within a Vela CI/CD pipeline to enforce security and compliance standards
 <br>Integrated Postgres with RestAPI for build lifecycle and versioning information retrieval and storage
 <br>Performed unit and integration testing with sqlmock and httptest, achieved service level objectives (SLOs)
 
-
-
-### Lead Tech Engineer @ [Skuy](https://www.skuy.app/)
-_(Apr 2022 - Present)_
+***Lead Tech Engineer @ [Skuy](https://www.skuy.app/)*** _(Apr 2022 - Jun 2024)_
 
 Built a college community network app startup, amassed 500+ users on both the App Store and Google Play
 <br>Led a 2-months database migration from Heroku to Firebase for service growth and stability
 <br>Managed pull requests for 8 tech engineers to ensure encrypted retrieval and storage for private user info
 <br>Configured CI/CD pipeline on Expo for IOS Pod and Android Gradle builds
 
-
-### Software Development Engineering Intern @ [Amazon](https://www.amazon.com/)
-_(Jun 2022 - Sep 2022)_
+***Software Development Engineering Intern @ [Amazon](https://www.amazon.com/)*** _(Jun 2022 - Sep 2022)_
 
 Implemented a Sagemaker site that provides benchmarked health & architecture evaluations for ML models
 <br>Simplified frontend of S3 resource selector with React and Redux; unit tested with ESLint and Cypress
@@ -158,7 +151,7 @@ Implemented a Sagemaker site that provides benchmarked health & architecture eva
 ## Skills
 
 ***Languages***: Python, Go, TypeScript, SwiftUI, HTML/CSS/JavaScript, C++
-<br>***Deep Learning***: Torch, CUDA, TensorFlow, OpenCV
+<br>***Robotic Learning***: ROS2, Torch, CUDA, TensorFlow, OpenCV
 <br>***Web/Mobile Development***: React, React Native, Flask, Redux, Node, ESLint, Cypress
 <br>***DevOps***: RestAPI, AWS, Firebase, Heroku, Elastic Beanstalk, Git, Vela, Docker, MySQL, PostgresSQL
 
