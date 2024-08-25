@@ -85,7 +85,7 @@ Developed a WiFi-enabled quadrotor using Raspberry Pi and IMU; implemented PID c
 <br clear="right" style="margin: 0rem 0rem 1rem">[Code](https://github.com/yyf20001230/CS410) 
 <br>
 
-<img src="/frank_yang/assets/img/reminiscia.jpg" width="35%" align="left" style="margin: 2rem 2rem 0rem 0rem"/>
+<img src="/frank_yang/assets/img/reminiscia.jpg" width="35%" align="left" style="margin: 0rem 2rem 0rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Reminiscia</h3>
 _(Dec 2022 - May 2023)_
