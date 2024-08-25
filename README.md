@@ -2,11 +2,11 @@
 
 Hi! My name is Frank, I am currently a Computer Science MS student at Northwestern University at the [Design Automation of Intelligent Systems Lab](http://zhulab.eecs.northwestern.edu/index.html) advised by Prof. [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/). I also work closely with Prof. [Chao Huang](https://chaohuang2018.github.io/) at University of Southampton. Presently, I am also working as a Robotics Learning Intern at the [Stanford Vision and Learning Lab](https://svl.stanford.edu/) advised by Prof. [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li). 
 
-I received my Bachelor's Degree in Computer Science and Mathematics at 2024, also from Northwestern University. I had the privilege of collaborating with Professor [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/) at the [3DIM Lab](https://3dim.northwestern.edu/). 
+I received my Bachelor's Degree Summa Cum Laude in Computer Science and Mathematics in 2024, also from Northwestern University. I had the privilege of collaborating with Professor [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/) at the [3DIM Lab](https://3dim.northwestern.edu/). 
 
 I have a broad interest in robotic learning and control. This curiosity fuels my research vision — a commitment to contributing to the evolution of robotic autonomy. Whether applied to robotics or commodity vehicles, I envision a future where vehicles navigate roads with an optimal balance of efficiency and safety.
 
-I deeply believe in human ingenuity and the potential of Artificial Intelligence. 10 years from now, I want to be a roboticist, immersing myself in a pioneering industry capable of pushing robotics to learning long-horizon daily tasks, .
+I deeply believe in human ingenuity and the potential of Artificial Intelligence. 10 years from now, I want to be a roboticist, immersing myself in a pioneering industry capable of pushing robotics to learning long-horizon daily tasks.
 
 Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</a> for a full list of work, teaching, and other experiences.
 
@@ -128,24 +128,20 @@ Introduced an alternative to a light-field camera that synthesizes camera focus 
 
 ## Work Experiences
 
-***Software Engineer Intern*** @ [Target](https://www.target.com) _(June 2023 - Aug 2023)_
-
+***Software Engineer Intern @ [Target](https://www.target.com)*** _(June 2023 - Aug 2023)_
 
 Developed a Golang application within a Vela CI/CD pipeline to enforce security and compliance standards
 <br>Integrated Postgres with RestAPI for build lifecycle and versioning information retrieval and storage
-<br>Performed unit and integration testing with sqlmock and httptest, achieved service level objectives (SLOs)
 
 ***Lead Tech Engineer @ [Skuy](https://www.skuy.app/)*** _(Apr 2022 - Jun 2024)_
 
-Built a college community network app startup, amassed 500+ users on both the App Store and Google Play
+Built a college community network app startup, amassed 1000+ users on both the App Store and Google Play
 <br>Led a 2-months database migration from Heroku to Firebase for service growth and stability
-<br>Managed pull requests for 8 tech engineers to ensure encrypted retrieval and storage for private user info
 <br>Configured CI/CD pipeline on Expo for IOS Pod and Android Gradle builds
 
 ***Software Development Engineering Intern @ [Amazon](https://www.amazon.com/)*** _(Jun 2022 - Sep 2022)_
 
 Implemented a Sagemaker site that provides benchmarked health & architecture evaluations for ML models
-<br>Simplified frontend of S3 resource selector with React and Redux; unit tested with ESLint and Cypress
 <br>Presented a demo to Sagemaker engineers; received candidacy to beta-launch model cards on AWS Re:Invent
 
 ## Skills
