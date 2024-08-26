@@ -28,7 +28,7 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 <h3 style="margin: 0rem 0rem 1rem">Behavior 1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation</h3>
 
 Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
-<br clear="right"> Development on BEHAVIOR-1K: 1000 embodied-AI robotic learning simulation benchmark built upon NVIDIA Omniverse engine; Designed Action Primitive Based Motion Planning for Curobot
+<br clear="right"> Development on BEHAVIOR-1K: 1000 embodied-AI robotic learning simulation benchmark built upon NVIDIA Omniverse engine; Designed Action Primitive Based Motion Planning and Collision Detection with Curobo
 
 <br clear="right"><a href="https://behavior.stanford.edu/behavior-1k" target="_blank">Project</a> / <a href="https://arxiv.org/abs/2403.09227" target="_blank">Paper</a>
 
