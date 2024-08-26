@@ -4,7 +4,7 @@ Hi! My name is Frank, I am currently a Computer Science MS student at Northweste
 
 I received my Bachelor's Degree with <i>summa cum laude</i> in Computer Science and Mathematics in 2024, also from Northwestern University. I had the privilege of collaborating with Professor [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/) at the [3DIM Lab](https://3dim.northwestern.edu/). 
 
-I have a broad interest in robotic learning. I'm fascinated by the challenge of creating robots that can navigate complex environments and perform long-horizon tasks efficiently and safely. This interest extends from humanoid robotics to more common applications like self-driving vehicles. Looking ahead, I want to contribute to pioneering industries by refining state-of-the-art learning methods that effectively assist humans in complex tasks, while prioritizing safety alongside performance.
+I have a broad interest in robotic learning. I'm fascinated by the challenge of creating autonomous robots that can navigate complex environments and perform long-horizon tasks efficiently and safely. This interest extends from humanoid robotics to more common applications like self-driving vehicles. Looking ahead, I want to contribute to pioneering industries by refining state-of-the-art learning methods that effectively assist humans in complex tasks, while prioritizing safety alongside performance.
 
 Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</a> for a full list of work, teaching, and other experiences.
 
