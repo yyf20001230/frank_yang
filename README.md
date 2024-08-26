@@ -99,7 +99,6 @@ Source: [Code](https://github.com/yyf20001230/reminiscia)
 <br>
 <br>
 <br>
-<br>
 
 
 <img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 0rem 2rem 5rem 0rem"/>
