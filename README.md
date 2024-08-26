@@ -23,7 +23,7 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 
 ## Research Projects
 
-<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin:2rem 2rem 3rem 0rem"/>
+<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin:2rem 2rem 2rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Behavior 1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation</h3>
 
