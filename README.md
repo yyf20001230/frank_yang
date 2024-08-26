@@ -81,7 +81,7 @@ My projects have been contributing to a common goal: creating more intelligent a
 
 ## Other Projects
 
-<img src="/frank_yang/assets/img/quadrotor.jpg" width="35%" align="left" style="margin: 2rem 2rem 2rem 0rem"/>
+<img src="/frank_yang/assets/img/quadrotor.jpg" width="35%" align="left" style="margin: 0rem 2rem 2rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Quadrotor Design and Control</h3>
 _(Mar 2024 - Jun 2024)_
@@ -99,7 +99,7 @@ Source: [Code](https://github.com/yyf20001230/reminiscia)
 
 
 
-<img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
+<img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 0rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Transformer-based Lie Detection</h3>
 _(Feb 2022 - Jan 2023)_
