@@ -29,8 +29,7 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 
 Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 <br clear="right"> Development on BEHAVIOR-1K: 1000 embodied-AI robotic learning simulation benchmark built upon NVIDIA Omniverse engine; Designed Action Primitive Based Motion Planning and Collision Detection with Curobo
-
-<a href="https://behavior.stanford.edu/behavior-1k" target="_blank">Project</a> / <a href="https://arxiv.org/abs/2403.09227" target="_blank">Paper</a>
+[Project](https://behavior.stanford.edu/behavior-1k) / [Paper](https://arxiv.org/abs/2403.09227)
 
 <img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 5rem 0rem"/>
 
