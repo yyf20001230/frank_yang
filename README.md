@@ -64,7 +64,9 @@ Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-
 My projects have been contributing to a common goal: creating more intelligent and adaptable robotic systems through learning-based approaches. Within robotic learning, I am particularly interested in:
 
 ***Data-Driven Control***: Designing safe model predictive control strategies capable of handling uncertainties and delays in dynamic environments.
+
 ***Runtime Verification***: Equipping robots with real-time decision-making capabilities that continuously assess the safety of learned systems, especially in the presence of neural network controlled systems.
+
 ***Skill-Based Learning***: Developing long-horizon skill acquisition from expert demonstration. This includes creating benchmark metrics and high-fidelity action primitive sim2real transfer.
 
 ## Teaching
