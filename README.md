@@ -89,7 +89,7 @@ _(Mar 2024 - Jun 2024)_
 Source: [Code](https://github.com/yyf20001230/CS410) 
 <br clear="right">Developed a WiFi-enabled quadrotor using Raspberry Pi and IMU; implemented PID control, safety measures, and joystick interfacing in C that allows stable manual flight control; integrated Vive Lighthouse with IR sensors to enable autonomous flight control with precise 3D positioning
 
-<img src="/frank_yang/assets/img/reminiscia.jpg" width="35%" align="left" style="margin: 0rem 2rem 2rem 0rem"/>
+<img src="/frank_yang/assets/img/reminiscia.jpg" width="35%" align="left" style="margin: 0rem 2rem 1rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Reminiscia</h3>
 _(Dec 2022 - May 2023)_
