@@ -23,29 +23,32 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 
 ## Research Projects
 
-<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin:2rem 2rem 2rem 0rem"/>
+<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin:2rem 2rem 3rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Behavior 1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation</h3>
 
 Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 <br clear="right">Sources: [Project](https://behavior.stanford.edu/behavior-1k) / [Paper](https://arxiv.org/abs/2403.09227)
 <br clear="right">Development on BEHAVIOR-1K: 1000 embodied-AI robotic learning simulation benchmark built upon NVIDIA Omniverse engine; Integrated path planning and collision detection with Curobo, enabling more efficient, parallelizable reinforcement learning with action primitives
+<br>
 
-<img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 2rem 0rem"/>
+<img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 3rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems</h3>
 
 Advised by: [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/)
 <br clear="right">Sources: [Paper](https://arxiv.org/abs/2408.08592) / [Tool](./assets/pdf/POLAR-express.pdf)
 <br clear="right">Performed runtime safety verification case study with POLAR-express on Turtlebot3 in ROS2 simulation; Proposed online controller switch strategy for safety-critical control systems with neural networks
+<br>
 
-<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
+<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 6rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Efficient Encoding of Graphics Primitives with Simplex-based Structures</h3>
 
 Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 <br clear="right">Source: [Paper](./frank_yang/assets/pdf/Encoding.pdf)
 <br clear="right">Surveyed the encoding of graphics primitives proposed by “Instant NGP"; established theoretical foundations for simplex-based structure encodings and accelerated sample and interpolation speed on NeRF and SDF rendering with C++/CUDA kernels
+<br>
 
 <!-- <img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
@@ -86,7 +89,6 @@ _(Mar 2024 - Jun 2024)_
 Developed a WiFi-enabled quadrotor using Raspberry Pi and IMU; implemented PID control, safety measures, and joystick interfacing in C that allows stable manual flight control; integrated Vive Lighthouse with IR sensors to enable autonomous flight control with precise 3D positioning
 
 <br clear="right" style="margin: 0rem 0rem 1rem">[Code](https://github.com/yyf20001230/CS410) 
-<br>
 
 <img src="/frank_yang/assets/img/reminiscia.jpg" width="35%" align="left" style="margin: 0rem 2rem 1rem 0rem"/>
 
@@ -96,8 +98,6 @@ _(Dec 2022 - May 2023)_
 Implemented a multimodal text-to-image search application using pretrained vision-language models; employed Vision and CoreML to allow calculations of cosine similarity between text and image embeddings; distilled original 224MB CLIP model into an 85MB, 6-layer image encoder to improve inference speed
 
 <br clear="right" style="margin: 0rem 0rem 1rem">[Code](https://github.com/yyf20001230/reminiscia) 
-<br>
-<br>
 
 <img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
@@ -108,7 +108,6 @@ Advised by: [Zach Wood Woughty](https://zachwd.com/)
 <br clear="right">Conceptualized a vision-based transformer that detects lies from multimodal inputs with PyTorch; trained a transformer encoder from fine-tuning Inceptionv3; pinpointed 20 micro-gestures and facial AUs that most contribute to lying; resulted an out-of-sample lying classification of 76%
 
 <br clear="right" style="margin: 0rem 0rem 1rem">[Code](https://github.com/yyf20001230/Lie_Detection)
-<br>
 
 <!-- <img src="/frank_yang/assets/img/matcha.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
