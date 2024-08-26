@@ -28,7 +28,8 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 <h3 style="margin: 0rem 0rem 1rem">Behavior 1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation</h3>
 
 Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
-<br clear="right"> Development on BEHAVIOR-1K: 1000 embodied-AI robotic learning simulation benchmark built upon NVIDIA Omniverse engine; Designed Action Primitive Based Motion Planning and Collision Detection with Curobo
+<br clear="right"> Development on BEHAVIOR-1K: 1000 embodied-AI robotic learning simulation benchmark built upon NVIDIA Omniverse engine; Integrated path planning and collision detection with Curobo, enabling more efficient, parallelizable reinforcement learning with action primitives
+
 [Project](https://behavior.stanford.edu/behavior-1k) / [Paper](https://arxiv.org/abs/2403.09227)
 
 <img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 5rem 0rem"/>
@@ -38,6 +39,7 @@ Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 Advised by: [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/)
 <br clear="right"> Performed runtime safety verification case study with POLAR-express on Turtlebot3 in ROS2 simulation; Proposed online controller switch strategy for safety-critical control systems with neural networks
 
+[Paper](https://arxiv.org/abs/2408.08592) / [Tool](./assets/pdf/POLAR-express.pdf)
 <a href="https://arxiv.org/abs/2408.08592" target="_blank">Paper</a> / <a href="/frank_yang/assets/pdf/POLAR-express.pdf" target="_blank">Tool</a>
 
 <img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
