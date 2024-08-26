@@ -81,20 +81,20 @@ My projects have been contributing to a common goal: creating more intelligent a
 
 ## Other Projects
 
-<img src="/frank_yang/assets/img/quadrotor.jpg" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
+<img src="/frank_yang/assets/img/quadrotor.jpg" width="35%" align="left" style="margin: 2rem 2rem 2rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Quadrotor Design and Control</h3>
 _(Mar 2024 - Jun 2024)_
 
-<br clear="right">Source: [Code](https://github.com/yyf20001230/CS410) 
+Source: [Code](https://github.com/yyf20001230/CS410) 
 <br clear="right">Developed a WiFi-enabled quadrotor using Raspberry Pi and IMU; implemented PID control, safety measures, and joystick interfacing in C that allows stable manual flight control; integrated Vive Lighthouse with IR sensors to enable autonomous flight control with precise 3D positioning
 
-<img src="/frank_yang/assets/img/reminiscia.jpg" width="35%" align="left" style="margin: 0rem 2rem 5rem 0rem"/>
+<img src="/frank_yang/assets/img/reminiscia.jpg" width="35%" align="left" style="margin: 0rem 2rem 2rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Reminiscia</h3>
 _(Dec 2022 - May 2023)_
 
-<br clear="right">Source: [Code](https://github.com/yyf20001230/reminiscia) 
+Source: [Code](https://github.com/yyf20001230/reminiscia) 
 <br clear="right">Implemented a multimodal text-to-image search application using pretrained vision-language models; employed Vision and CoreML to allow calculations of cosine similarity between text and image embeddings; distilled original 224MB CLIP model into an 85MB, 6-layer image encoder to improve inference speed
 
 
@@ -104,7 +104,7 @@ _(Dec 2022 - May 2023)_
 <h3 style="margin: 0rem 0rem 1rem">Transformer-based Lie Detection</h3>
 _(Feb 2022 - Jan 2023)_
 
-<br clear="right">Advised by: [Zach Wood Woughty](https://zachwd.com/)
+Advised by: [Zach Wood Woughty](https://zachwd.com/)
 <br clear="right">Source: [Code](https://github.com/yyf20001230/Lie_Detection)
 <br clear="right">Conceptualized a vision-based transformer that detects lies from multimodal inputs with PyTorch; trained a transformer encoder from fine-tuning Inceptionv3; pinpointed 20 micro-gestures and facial AUs that most contribute to lying; resulted an out-of-sample lying classification of 76%
 
