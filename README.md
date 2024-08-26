@@ -50,14 +50,14 @@ Advised by: [Ying Wu](http://users.ece.northwestern.edu/~yingwu/)
 
 <br clear="right"><a href="/frank_yang/assets/pdf/Encoding.pdf" target="_blank">Paper</a>
 
-<img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
+<!-- <img src="/frank_yang/assets/img/3DIM.jpg" width="35%" align="left" style="margin: 2rem 2rem 4rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">High-quality 3D imaging with Commodity Devices</h3>
 
 Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/)
 <br clear="right">Created a python 3D imaging framework that facilitates non-technical users to discover micro-painting degradation in Kokomo glass test tiles; packaged a [3-step calibration sequence](https://pypi.org/project/GhostScan/)for Phase Measuring Deflectometry; benchmarked performance with FLIR camera on specular objects
 
-<br clear="right"><a href="/frank_yang/assets/pdf/3DIM.pdf" target="_blank">Paper</a>
+<br clear="right"><a href="/frank_yang/assets/pdf/3DIM.pdf" target="_blank">Paper</a> -->
 
 ## Research Interests
 
