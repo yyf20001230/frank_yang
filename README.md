@@ -168,7 +168,7 @@ Implemented a Sagemaker site that provides benchmarked health & architecture eva
 
 <img src="/frank_yang/assets/img/photography.png" width="40%" align="left" style="margin:2rem 4rem 5rem 0rem"/>
 
-<br clear="right"> Outside of school, I am a freelance photographer taking landscape, portrait, and graduation photos. In my creative endeavor, I am a cinematographer working on film projects such as Applause For A Cause and TEDx. I am committed to creating cinematic lighting and true-story shots that evokes emotion. Please visit my [portfolio](https://sashimiphotos.com) for more detail!
+<br clear="right"> Outside of school, I am a freelance photographer taking landscape, portrait, and graduation photos. In my creative endeavor, I am a cinematographer working on film projects such as Applause For A Cause and TEDx. I am committed to creating cinematic lighting and true-story shots that evokes emotion. Check out my [portfolio](https://sashimiphotos.com) for my fun side!
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Ffrankyang.me&count_bg=%23FFA148&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
