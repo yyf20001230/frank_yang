@@ -23,8 +23,7 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 
 ## Research Projects
 
-<p>
-<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin:2rem 2rem 3rem 0rem"/>
+<img src="/frank_yang/assets/img/Behavior.png" width="35%" align="left" style="margin:2rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Behavior 1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation</h3>
 
@@ -32,9 +31,8 @@ Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 <br clear="right">Sources: [Project](https://behavior.stanford.edu/behavior-1k) / [Paper](https://arxiv.org/abs/2403.09227)
 <br clear="right">Development on BEHAVIOR-1K: 1000 embodied-AI robotic learning simulation benchmark built upon NVIDIA Omniverse engine; Integrated path planning and collision detection with Curobo, enabling more efficient, parallelizable reinforcement learning with action primitives
 <br>
-</p>
 
-<img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 3rem 0rem"/>
+<img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems</h3>
 
@@ -43,7 +41,7 @@ Advised by: [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/)
 <br clear="right">Performed runtime safety verification case study with POLAR-express on Turtlebot3 in ROS2 simulation; Proposed online controller switch strategy for safety-critical control systems with neural networks
 <br>
 
-<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 6rem 0rem"/>
+<img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Efficient Encoding of Graphics Primitives with Simplex-based Structures</h3>
 
@@ -83,7 +81,7 @@ My projects have been contributing to a common goal: creating more intelligent a
 
 ## Other Projects
 
-<img src="/frank_yang/assets/img/quadrotor.jpg" width="35%" align="left" style="margin: 2rem 2rem 3rem 0rem"/>
+<img src="/frank_yang/assets/img/quadrotor.jpg" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Quadrotor Design and Control</h3>
 _(Mar 2024 - Jun 2024)_
@@ -91,7 +89,7 @@ _(Mar 2024 - Jun 2024)_
 <br clear="right">Source: [Code](https://github.com/yyf20001230/CS410) 
 <br clear="right">Developed a WiFi-enabled quadrotor using Raspberry Pi and IMU; implemented PID control, safety measures, and joystick interfacing in C that allows stable manual flight control; integrated Vive Lighthouse with IR sensors to enable autonomous flight control with precise 3D positioning
 
-<img src="/frank_yang/assets/img/reminiscia.jpg" width="35%" align="left" style="margin: 0rem 2rem 3rem 0rem"/>
+<img src="/frank_yang/assets/img/reminiscia.jpg" width="35%" align="left" style="margin: 0rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Reminiscia</h3>
 _(Dec 2022 - May 2023)_
@@ -101,7 +99,7 @@ _(Dec 2022 - May 2023)_
 
 
 
-<img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 6rem 0rem"/>
+<img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
 
 <h3 style="margin: 0rem 0rem 1rem">Transformer-based Lie Detection</h3>
 _(Feb 2022 - Jan 2023)_
