@@ -96,7 +96,9 @@ _(Dec 2022 - May 2023)_
 
 Source: [Code](https://github.com/yyf20001230/reminiscia) 
 <br clear="right">Implemented a multimodal text-to-image search application using pretrained vision-language models; employed Vision and CoreML to allow calculations of cosine similarity between text and image embeddings; distilled original 224MB CLIP model into an 85MB, 6-layer image encoder to improve inference speed
-
+<br>
+<br>
+<br>
 
 
 <img src="/frank_yang/assets/img/lie.jpg" width="35%" align="left" style="margin: 0rem 2rem 5rem 0rem"/>
