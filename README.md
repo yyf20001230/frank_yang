@@ -4,7 +4,7 @@ Hi! My name is Frank, I am currently a Computer Science MS student at Northweste
 
 I received my Bachelor's Degree <i>summa cum laude</i> in Computer Science and Mathematics in 2024, also from Northwestern University. I had the privilege of collaborating with Professor [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) and [Oliver Cossairt](https://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/) at the [3DIM Lab](https://3dim.northwestern.edu/). 
 
-I have a broad interest in robotic learning and control. I'm fascinated by the challenge of creating robots that can navigate complex environments and perform long-horizon tasks efficiently and safely. This interest extends from humanoid robotics to more common applications like self-driving vehicles. Looking ahead, I want to contribute to pioneering industries by refining state-of-the-art robotic learning methods that effectively assist humans in complex tasks, while prioritizing safety alongside performance.
+I have a broad interest in robotic learning. I'm fascinated by the challenge of creating robots that can navigate complex environments and perform long-horizon tasks efficiently and safely. This interest extends from humanoid robotics to more common applications like self-driving vehicles. Looking ahead, I want to contribute to pioneering industries by refining state-of-the-art learning methods that effectively assist humans in complex tasks, while prioritizing safety alongside performance.
 
 Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</a> for a full list of work, teaching, and other experiences.
 
@@ -61,7 +61,11 @@ Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-
 
 ## Research Interests
 
-Pending
+My projects have been contributing to a common goal: creating more intelligent and adaptable robotic systems through learning-based approaches. Within robotic learning, I am particularly interested in:
+
+***Data-Driven Control***: Designing safe model predictive control strategies capable of handling uncertainties and delays in dynamic environments.
+***Runtime Verification***: Equipping robots with real-time decision-making capabilities that continuously assess the safety of learned systems, especially in the presence of neural network controlled systems.
+***Skill-Based Learning***: Developing long-horizon skill acquisition from expert demonstration. This includes creating benchmark metrics and high-fidelity action primitive sim2real transfer.
 
 ## Teaching
 
