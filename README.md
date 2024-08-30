@@ -9,7 +9,7 @@ I have a broad interest in robotic learning. I'm fascinated by the challenge of 
 Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</a> for a full list of work, teaching, and other experiences.
 
 ## News
-- **[October 2024]** - Invited talk at RV 2024
+- **[October 2024]** - Invited talk to RV 2024
 - **[August 2024]** - Submitted POLAR-express to [Embedded Systems Week 2024](https://esweek.org/) tool presentation
 - **[July 2024]** - One paper accepted to RV 2024
 - **[June 2024]** - Started as a Robotic Learning Intern at [Stanford Vision and Learning Lab](https://svl.stanford.edu/)
