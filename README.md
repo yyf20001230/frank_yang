@@ -4,7 +4,7 @@ Hi! My name is Frank, I am currently a Computer Science MS student at Northweste
 
 I received my Bachelor's Degree with <i>summa cum laude</i> in Computer Science and Mathematics in 2024, also from Northwestern University. I had the privilege of collaborating with Professor [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) at the [3DIM Lab](https://3dim.northwestern.edu/). 
 
-I have a broad interest in robotic learning and control. I’m fascinated by the challenge of building autonomous robots that navigate complex environments and perform long-horizon tasks efficiently and safely. I am currently researching on equipping robots with safe learning and runtime decision-making capabilities within uncertain environments subject to disturbances or observation delays. This interest extends from common applications like self-driving vehicles to humanoid robotics. Looking ahead, I aim to design state-of-the-art learning methods that effectively assist humans in complex tasks, while prioritizing safety alongside performance.
+I have a broad interest in robotic learning and control. I’m fascinated by the challenge of building autonomous robots that navigate complex environments and perform long-horizon tasks efficiently and safely. I am researching on equipping robots with safe learning and runtime decision-making capabilities within uncertain environments subject to disturbances or observation delays. This interest extends from common applications like self-driving vehicles to humanoid robotics. Looking ahead, I aim to design state-of-the-art learning methods that effectively assist humans in complex tasks, while prioritizing safety alongside performance.
 
 Within robotic learning and control, I am particularly interested in:
 
@@ -45,7 +45,7 @@ Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 
 <img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 2rem 0rem"/>
 
-<h3 style="margin: 0rem 0rem 1rem">POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems</h3>
+<h3 style="margin: 0rem 0rem 2rem">POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems</h3>
 
 Advised by: [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/)
 <br clear="right">Sources: [Paper](https://arxiv.org/abs/2408.08592) / [Tool](./assets/pdf/POLAR-express.pdf)
