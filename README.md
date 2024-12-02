@@ -4,18 +4,29 @@ Hi! My name is Frank, I am currently a Computer Science MS student at Northweste
 
 I received my Bachelor's Degree with <i>summa cum laude</i> in Computer Science and Mathematics in 2024, also from Northwestern University. I had the privilege of collaborating with Professor [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) at the [3DIM Lab](https://3dim.northwestern.edu/). 
 
-I have a broad interest in robotic learning. I'm fascinated by the challenge of building autonomous robots that can navigate complex environments and perform long-horizon tasks efficiently and safely. This interest extends from humanoid robotics to more common applications like self-driving vehicles. Looking ahead, I aim to design state-of-the-art learning methods that effectively assist humans in complex tasks, while prioritizing safety alongside performance.
+I have a broad interest in robotic learning and control. I’m fascinated by the challenge of building autonomous robots that navigate complex environments and perform long-horizon tasks efficiently and safely. I am currently researching on equipping robots with safe learning and runtime decision-making capabilities within uncertain environments subject to disturbances or observation delays. This interest extends from common applications like self-driving vehicles to humanoid robotics. Looking ahead, I aim to design state-of-the-art learning methods that effectively assist humans in complex tasks, while prioritizing safety alongside performance.
+
+Within robotic learning and control, I am particularly interested in:
+
+***Data-Driven Control***: developing safe reinforcement learning and model predictive control strategies that can handle uncertainties and observation delays in dynamic environments.
+
+***Runtime Verification***: Equipping robots with real-time decision-making capabilities that continuously assess the safety of learned systems, especially in the presence of neural network controlled systems.
+
+***Skill-Based Learning***: Developing long-horizon skill acquisition from expert demonstration. This includes creating benchmark metrics and high-fidelity real2sim and sim2real transfer.
 
 Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</a> for a full list of work, teaching, and other experiences.
 
 ## News
+- **[Demember 2024]** - Submitted a paper on delayed IRL to [L4DC 2025](https://learning-for-dynamics.github.io/)
 - **[October 2024]** - Invited talk to RV 2024
-- **[August 2024]** - Submitted POLAR-express to [Embedded Systems Week 2024](https://esweek.org/) tool presentation
+- **[August 2024]** - Submitted POLAR-express to [Embedded Systems Week 2024](https://esweek.org/) tool presentation (Winner of ESSC 2024)
 - **[July 2024]** - One paper accepted to RV 2024
 - **[June 2024]** - Started as a Robotic Learning Intern at [Stanford Vision and Learning Lab](https://svl.stanford.edu/)
 - **[May 2023]** - One paper accepted to MMLS 2023
 
 ## Publications
+
+S. Zhan, Q. Wu, Z. Ruan, **F. Yang**, P. Wang, Y. Wang, R. Jiao, C. Huang, Q. Zhu. Inverse Delayed Reinforcement Learning. Learning for Dynamics and Control, 2025. **(In submission)**
 
 **F. Yang**, S. Zhan, Y. Wang, et al. Case Study: Runtime Safety Verification of Neural Network Controlled System. Runtime Verification, 2024. <a href="https://arxiv.org/abs/2408.08592" target="_blank">Paper</a>
 
@@ -58,16 +69,6 @@ Advised by: [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-
 <br clear="right">Created a python 3D imaging framework that facilitates non-technical users to discover micro-painting degradation in Kokomo glass test tiles; packaged a [3-step calibration sequence](https://pypi.org/project/GhostScan/)for Phase Measuring Deflectometry; benchmarked performance with FLIR camera on specular objects
 
 <br clear="right"><a href="/frank_yang/assets/pdf/3DIM.pdf" target="_blank">Paper</a> -->
-
-## Research Interests
-
-My projects have been contributing to a common goal: creating more intelligent and adaptable robotic systems through learning-based approaches. Within robotic learning, I am particularly interested in:
-
-***Data-Driven Control***: Designing safe model predictive control strategies capable of handling uncertainties and delays in dynamic environments.
-
-***Runtime Verification***: Equipping robots with real-time decision-making capabilities that continuously assess the safety of learned systems, especially in the presence of neural network controlled systems.
-
-***Skill-Based Learning***: Developing long-horizon skill acquisition from expert demonstration. This includes creating benchmark metrics and high-fidelity action primitive sim2real transfer.
 
 ## Teaching
 
