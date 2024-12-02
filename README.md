@@ -8,7 +8,7 @@ I have a broad interest in robotic learning and control. I’m fascinated by the
 
 Within robotic learning and control, I am particularly interested in:
 
-***Data-Driven Control***: developing safe reinforcement learning and model predictive control strategies that can handle uncertainties and observation delays in dynamic environments.
+***Data-Driven Control in Uncertainty***: developing safe reinforcement learning and model predictive control strategies that can handle uncertainties and observation delays in dynamic environments.
 
 ***Runtime Verification***: Equipping robots with real-time decision-making capabilities that continuously assess the safety of learned systems, especially in the presence of neural network controlled systems.
 
