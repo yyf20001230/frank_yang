@@ -40,7 +40,7 @@ S. Zhan, Q. Wu, Z. Ruan, **F. Yang**, P. Wang, Y. Wang, R. Jiao, C. Huang, Q. Zh
 
 Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 <br clear="right">Sources: [Project](https://behavior.stanford.edu/behavior-1k) / [Paper](https://arxiv.org/abs/2403.09227)
-<br clear="right">Development on BEHAVIOR-1K: 1000 embodied-AI robotic learning simulation benchmark built upon NVIDIA Omniverse engine; Created an efficient and distributed RL approach for action primitives (pick, place, navigate); Integrated path planning and mesh prim collision detection via curobo
+<br clear="right">Development on BEHAVIOR-1K: 1000 embodied-AI robotic learning simulation benchmark built upon NVIDIA Omniverse engine; Decomposed complex, long-horizon tasks into learnable action primitives (pick, place, navigate); Implemented a collision-free action primitives execution pipeline using curobo
 <br>
 
 <img src="/frank_yang/assets/img/polar-express.png" width="35%" align="left" style="margin:2rem 2rem 2rem 0rem"/>
@@ -49,7 +49,7 @@ Advised by: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
 
 Advised by: [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/)
 <br clear="right">Sources: [Paper](https://arxiv.org/abs/2408.08592) / [Tool](./assets/pdf/POLAR-express.pdf)
-<br clear="right">Performed runtime safety verification case study with POLAR-express on Turtlebot3 in ROS2 simulation; Proposed online controller switch strategy for safety-critical control systems with neural networks
+<br clear="right">Performed runtime safety verification case study with POLAR-express on Turtlebot3 in ROS2 simulation; Proposed online controller switch strategy for safety-critical control systems with neural networks; Designed an IRL framework that employs off-policy adversarial training to extract reward features from expert trajectories affected by observation delays
 <br>
 
 <img src="/frank_yang/assets/img/Encoding.png" width="35%" align="left" style="margin: 2rem 2rem 5rem 0rem"/>
