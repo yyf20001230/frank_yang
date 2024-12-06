@@ -171,7 +171,7 @@ Implemented a Sagemaker site that provides benchmarked health & architecture eva
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Ffrankyang.me&count_bg=%23FFA148&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-[CV]: https://drive.google.com/file/d/1yyrm51M9cJEusYE2ipu6j5bn3HRTEgzv/view?usp=sharing
+[CV]: https://drive.google.com/file/d/1lxpvsV7zgDOGkaYI4jsujNtcj7tX1Utx/view?usp=sharing
 [blog]: https://hydejack.com/blog/
 [portfolio]: https://hydejack.com/projects/
 [resume]: https://hydejack.com/resume/
