@@ -43,6 +43,7 @@
     {% assign google = author.google | default: author.google %}
     {% if google %}
       {% include components/social-list-item.html platform="google" username=google %}
+    {% endif %}
 
     {% assign email = author.email | default: site.email %}
     {% if email %}
