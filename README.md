@@ -26,7 +26,7 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 
 ## Publications
 
-S. Zhan, Q. Wu, Z. Ruan, **F. Yang**, P. Wang, Y. Wang, R. Jiao, C. Huang, Q. Zhu. Inverse Delayed Reinforcement Learning. Learning for Dynamics and Control, 2025. **(In submission)**
+S. Zhan, Q. Wu, Z. Ruan, **F. Yang**, P. Wang, Y. Wang, R. Jiao, C. Huang, Q. Zhu. Delayed Inverse Reinforcement Learning. Learning for Dynamics and Control, 2025. <a href="https://arxiv.org/abs/2412.02931" target="_blank">Paper</a> **(In submission)**
 
 **F. Yang**, S. Zhan, Y. Wang, et al. Case Study: Runtime Safety Verification of Neural Network Controlled System. Runtime Verification, 2024. <a href="https://arxiv.org/abs/2408.08592" target="_blank">Paper</a>
 
@@ -171,7 +171,7 @@ Implemented a Sagemaker site that provides benchmarked health & architecture eva
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Ffrankyang.me&count_bg=%23FFA148&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-[CV]: https://drive.google.com/file/d/1N12Cp6jPBLxFuq8aSnU8ce0lNnC8ykTj/view?usp=sharing
+[CV]: https://drive.google.com/file/d/1yyrm51M9cJEusYE2ipu6j5bn3HRTEgzv/view?usp=sharing
 [blog]: https://hydejack.com/blog/
 [portfolio]: https://hydejack.com/projects/
 [resume]: https://hydejack.com/resume/
