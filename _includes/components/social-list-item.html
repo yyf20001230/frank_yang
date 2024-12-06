@@ -36,7 +36,11 @@
       {% assign prep = "https://linkedin.com/in/" %}
     {% elsif platform == "link" %}
       {% assign name = "Link" %}
-      {% assign icon = "icon-link" %}
+      {% assign icon = "icon-file-pdf" %}
+      {% assign prep = "https://google.com" %}
+    {% elsif platform == "google" %}
+      {% assign name = "Google" %}
+      {% assign icon = "icon-google" %}
       {% assign prep = "https://google.com" %}
     {% endif %}
   {% endunless %}
