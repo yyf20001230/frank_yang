@@ -40,6 +40,10 @@
       {% include components/social-list-item.html platform="link" username=link %}
     {% endif %}
 
+    {% assign google = author.google | default: site.google %}
+    {% if google %}
+      {% include components/social-list-item.html platform="google" username=google %}
+
     {% assign email = author.email | default: site.email %}
     {% if email %}
       {% include components/social-list-item.html platform="email" username=email %}
