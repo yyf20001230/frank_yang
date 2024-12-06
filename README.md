@@ -26,7 +26,7 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 
 ## Publications
 
-S. Zhan, Q. Wu, Z. Ruan, **F. Yang**, P. Wang, Y. Wang, R. Jiao, C. Huang, Q. Zhu. Delayed Inverse Reinforcement Learning. Learning for Dynamics and Control, 2025. <a href="https://arxiv.org/abs/2412.02931" target="_blank">Paper</a> **(In submission)**
+S. Zhan, Q. Wu, Z. Ruan, **F. Yang**, P. Wang, Y. Wang, R. Jiao, C. Huang, Q. Zhu. Inverse Delayed Reinforcement Learning. Learning for Dynamics and Control, 2025. <a href="https://arxiv.org/abs/2412.02931" target="_blank">Paper</a> **(In submission)**
 
 **F. Yang**, S. Zhan, Y. Wang, et al. Case Study: Runtime Safety Verification of Neural Network Controlled System. Runtime Verification, 2024. <a href="https://arxiv.org/abs/2408.08592" target="_blank">Paper</a>
 
