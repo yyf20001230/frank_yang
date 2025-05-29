@@ -1,6 +1,6 @@
 # About
 
-Hi! My name is Frank, I am currently a Computer Science MS student at Northwestern University at the [Design Automation of Intelligent Systems Lab](http://zhulab.eecs.northwestern.edu/index.html) advised by Prof. [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/). I also work closely with Prof. [Chao Huang](https://chaohuang2018.github.io/) at University of Southampton. Presently, I am also working as a Robotics Learning Intern at the [Stanford Vision and Learning Lab](https://svl.stanford.edu/) advised by Prof. [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li). 
+Hi! My name is Frank, I am currently a Computer Science MS student at Northwestern University at the [Design Automation of Intelligent Systems Lab](http://zhulab.eecs.northwestern.edu/index.html) advised by Prof. [Qi Zhu](http://users.eecs.northwestern.edu/~qzhu/). I also work closely with Prof. [Chao Huang](https://chaohuang2018.github.io/) at University of Southampton. I am also worked as a Robotics Learning Intern at the [Stanford Vision and Learning Lab](https://svl.stanford.edu/) advised by Prof. [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li). 
 
 I received my Bachelor's Degree with <i>summa cum laude</i> in Computer Science and Mathematics in 2024, also from Northwestern University. I had the privilege of collaborating with Professor [Florian Willomitzer](https://www.optics.arizona.edu/person/florian-willomitzer) at the [3DIM Lab](https://3dim.northwestern.edu/). 
 
@@ -10,13 +10,14 @@ Within robotic learning and control, I am particularly interested in:
 
 ***Data-Driven Control in Uncertainty***: developing safe reinforcement learning and model predictive control strategies that can handle uncertainties and observation delays in dynamic environments.
 
-***Runtime Verification***: Equipping robots with real-time decision-making capabilities that continuously assess the safety of learned systems, especially in the presence of neural network controlled systems.
+***Safety Verification***: Equipping robots with decision-making capabilities that assess the safety of learned systems, especially in the presence of neural network controlled systems.
 
 ***Skill-Based Learning***: Developing long-horizon skill acquisition from expert demonstration. This includes creating benchmark metrics and high-fidelity real2sim and sim2real transfer.
 
 Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</a> for a full list of work, teaching, and other experiences.
 
 ## News
+- **[May 2025]** Submitted a paper on delayed offline RL to [NeurIPS 2025](https://neurips.cc/)
 - **[Demember 2024]** - Submitted a paper on delayed IRL to [L4DC 2025](https://learning-for-dynamics.github.io/)
 - **[October 2024]** - Invited talk to RV 2024
 - **[August 2024]** - Submitted POLAR-express to [Embedded Systems Week 2024](https://esweek.org/) tool presentation (Winner of ESSC 2024)
@@ -25,6 +26,8 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 - **[May 2023]** - One paper accepted to MMLS 2023
 
 ## Publications
+
+S. Zhan, Q. Wu, **F. Yang**, X. Shi, C. Huang, Q. Zhu. Learning in Slow Motion: Adapting Offline Reinforcement Leanring with Online Delays. Neural Information Processing Systems, 2025. **(In submission)**
 
 S. Zhan, Q. Wu, Z. Ruan, **F. Yang**, P. Wang, Y. Wang, R. Jiao, C. Huang, Q. Zhu. Inverse Delayed Reinforcement Learning. Learning for Dynamics and Control, 2025. <a href="https://arxiv.org/abs/2412.02931" target="_blank">Paper</a> **(In submission)**
 
