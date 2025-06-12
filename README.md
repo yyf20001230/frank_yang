@@ -17,7 +17,7 @@ Within robotic learning and control, I am particularly interested in:
 Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</a> for a full list of work, teaching, and other experiences.
 
 ## News
-- **[May 2025]** Submitted my master thesis <a href="/frank_yang/assets/pdf/MS_Thesis_Frank.pdf" target="_blank">"Safety-Assured Autonomy of Learning-Enabled Emobodied AI Agents"</a>!
+- **[May 2025]** Submitted Master Thesis <a href="/frank_yang/assets/pdf/MS_Thesis_Frank.pdf" target="_blank">"Safety-Assured Autonomy of Learning-Enabled Emobodied AI Agents"</a>!
 - **[May 2025]** Submitted a paper on delayed offline RL to [NeurIPS 2025](https://neurips.cc/)
 - **[Demember 2024]** - Submitted a paper on delayed IRL to [L4DC 2025](https://learning-for-dynamics.github.io/)
 - **[October 2024]** - Invited talk to RV 2024
