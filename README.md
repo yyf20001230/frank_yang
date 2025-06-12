@@ -17,6 +17,7 @@ Within robotic learning and control, I am particularly interested in:
 Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</a> for a full list of work, teaching, and other experiences.
 
 ## News
+- **[May 2025]** Submitted my master thesis <a href="/frank_yang/assets/pdf/MS_Thesis_Frank.pdf" target="_blank">"Safety-Assured Autonomy of Learning-Enabled Emobodied AI Agents"</a>!
 - **[May 2025]** Submitted a paper on delayed offline RL to [NeurIPS 2025](https://neurips.cc/)
 - **[Demember 2024]** - Submitted a paper on delayed IRL to [L4DC 2025](https://learning-for-dynamics.github.io/)
 - **[October 2024]** - Invited talk to RV 2024
@@ -27,7 +28,7 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 
 ## Publications
 
-S. Zhan, Q. Wu, **F. Yang**, X. Shi, C. Huang, Q. Zhu. Learning in Slow Motion: Adapting Offline Reinforcement Leanring with Online Delays. Neural Information Processing Systems, 2025. **(In submission)**
+S. Zhan, Q. Wu, **F. Yang**, X. Shi, C. Huang, Q. Zhu. Learning in Slow Motion: Adapting Offline Reinforcement Leanring with Online Delays. Neural Information Processing Systems, 2025. <a href="https://arxiv.org/abs/2506.00131" target="_blank"> **(In submission)**
 
 S. Zhan, Q. Wu, Z. Ruan, **F. Yang**, P. Wang, Y. Wang, R. Jiao, C. Huang, Q. Zhu. Inverse Delayed Reinforcement Learning. Learning for Dynamics and Control, 2025. <a href="https://arxiv.org/abs/2412.02931" target="_blank">Paper</a> **(In submission)**
 
