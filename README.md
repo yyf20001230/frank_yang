@@ -28,7 +28,7 @@ Please see my <a href="/frank_yang/assets/pdf/frank_cv.pdf" target="_blank">CV</
 
 ## Publications
 
-S. Zhan, Q. Wu, **F. Yang**, X. Shi, C. Huang, Q. Zhu. Learning in Slow Motion: Adapting Offline Reinforcement Leanring with Online Delays. Neural Information Processing Systems, 2025. <a href="https://arxiv.org/abs/2506.00131" target="_blank"> **(In submission)**
+S. Zhan, Q. Wu, **F. Yang**, X. Shi, C. Huang, Q. Zhu. Learning in Slow Motion: Adapting Offline Reinforcement Leanring with Online Delays. Neural Information Processing Systems, 2025. <a href="https://arxiv.org/abs/2506.00131" target="_blank">Paper</a> **(In submission)**
 
 S. Zhan, Q. Wu, Z. Ruan, **F. Yang**, P. Wang, Y. Wang, R. Jiao, C. Huang, Q. Zhu. Inverse Delayed Reinforcement Learning. Learning for Dynamics and Control, 2025. <a href="https://arxiv.org/abs/2412.02931" target="_blank">Paper</a> **(In submission)**
 
